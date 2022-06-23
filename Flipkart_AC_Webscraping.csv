@@ -1,0 +1,767 @@
+Brand,Price,Ton,BEE_rating,Avg_Rating,Reviews,Rated_reviews,Type,Inverter,Convertible,Condenser Coil,Power Consumption,Noise level,Refrigerant,Ambient Temperature,WiFi Enabled,Warranty
+Voltas,37999,1.5,5,4.1,"1,405",138,Split,Yes,No,Copper,1450,46,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Whirlpool,36490,1.5,5,4,"4,598",524,Split,Yes,Yes,Copper,1325,35,R32,Not Available,No,Not Available
+Voltas,32399,1.5,3,4.1,715,64,Split,Yes,No,Copper,1675,47,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Lg,36499,1.5,3,4,"3,175",350,Split,Yes,Yes,Copper,962,26,R32,Not Available,No,"1 Year on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Whirlpool,32990,1.5,3,4,"4,598",524,Split,Yes,Yes,Copper,1570,37,R32,Not Available,No,Not Available
+Blue Star,29990,1.2,3,4.2,"2,725",307,Split,Yes,Yes,Copper,1500,33,R32,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor
+Whirlpool,31999,1.5,3,4.1,"7,689",848,Split,No,No,Copper,1410,36,R32,48,No,Not Available
+Samsung,33490,1.5,3,4.2,"24,029","2,445",Split,Yes,No,Copper,1700,45,R32,52,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Carrier,37490,1.5,4,4.3,"9,189","1,128",Split,Yes,Yes,Copper,974,37,R32,52,No,"1 Year warranty on Product, 5 (1+4) Years on PCB and 10 (1+9) Years on Compressor"
+Panasonic,36990,1.5,3,4.3,"9,607","1,169",Split,Yes,No,Copper,1770,48,R32,Not Available,Yes,"1 Year Comprehensive Warranty, 4 Years on PCB and 9 Years on Compressor"
+Samsung,39999,1.5,5,4.2,"24,029","2,445",Split,Yes,No,Copper,832,49,R32,Not Available,No,1 Year Standard Warranty on Product and 10 Years Warranty on Compressor From Samsung
+Lg,44499,1.5,5,4.2,"6,975",734,Split,Yes,Yes,Copper,818,31,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Realme Techlife,28999,1.5,4,4,"1,154",200,Split,Yes,Yes,Copper,968,43,R32,55,No,1 Year Warranty on Product and 10 Years on Compressor
+Lloyd,30999,1.2,3,4.1,250,29,Split,Yes,No,Copper,918,32,R32,52,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Carrier,37490,1.2,5,4.3,"9,189","1,128",Split,Yes,Yes,Copper,1050,32,R32,52,No,"1 Year warranty on Product, 5 (1+4) Years on PCB and 10 (1+9) Years on Compressor"
+Voltas,32999,1.5,3,4.2,44,5,Split,Yes,No,Copper,1685,46,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Daikin,25999,0.8,3,4.1,766,84,Split,No,No,Copper,709,43,R32,50,No,1 Year Warranty on Product and 5 Years on Compressor
+Panasonic,25999,1.5,3,4.2,409,66,Window,No,No,Copper,858,54,Not Available,46,No,1 Year on Product and 5 Years Compressor From Panasonic.
+Hitachi,30990,1.5,3,Not Available,Not Available,Not Available,Window,No,No,Copper,1277,50,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor
+Lg,38990,1.5,4,4,"3,175",350,Split,Yes,Yes,Copper,847,26,R32,Not Available,No,"1 Year on Product, 5 Years on PCB and 10 Years on Compressor With Gas Charging"
+Voltas,30999,1.5,5,4.3,"2,007",172,Window,No,No,Copper,1495,54,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor
+Onida,30990,1.5,3,4.5,"2,804",508,Split,Yes,No,Copper,1740,52,Not Available,52,No,1 Year Warranty on Product and 5 Years on Compressor from Onida
+Whirlpool,31990,1.5,3,4.2,"28,306","3,577",Split,Yes,No,Copper,1660,43,R32,52,No,Not Available
+Samsung,35999,1.5,4,4.1,354,27,Split,Yes,No,Copper,1490,45,R32,52,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Samsung,35999,1.5,4,4.1,354,27,Split,Yes,No,Copper,1490,45,R32,52,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Voltas,35490,1.2,5,4.2,"8,317","1,007",Split,Yes,Yes,Copper,688,46,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Blue Star,41990,1.5,5,4.2,"2,725",307,Split,Yes,Yes,Copper,1365,45,R40,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor
+Croma,28990,1.5,3,4.2,28,2,Split,Yes,Yes,Copper,1570,49,R32,Not Available,No,"1 Year on Product, 5 Years on Condenser and 9 Years on Compressor"
+Marq By Flipkart,29999,1.5,3,3.9,"5,350",734,Split,Yes,Yes,Copper,1056,43,R32,55,No,1 Year Warranty on Product and 10 Years on Compressor from MarQ by Flipkart
+Godrej,39490,1.5,5,4.4,209,16,Split,Yes,Yes,Copper,840,43,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Panasonic,42999,1.5,5,4.3,"9,607","1,169",Split,Yes,No,Copper,840,46,R32,Not Available,Yes,"1 Year Comprehensive Warranty, 5 Years on PCB and 10 Years on Compressor"
+Voltas,27999,1.5,3,4.3,"5,905",553,Window,No,No,Copper,1729,58,R32,Not Available,No,1 Year on Product and 4 Years on Compressor
+Godrej,33990,1.5,3,4.2,223,23,Split,Yes,Yes,Copper,1046,43,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Voltas,40999,1.6,5,4.3,"1,787",168,Split,Yes,Yes,Copper,1526,46,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Voltas,39999,1.5,5,4.2,"1,225",106,Split,Yes,No,Copper,1750,43,R32,52,No,1 Year on Product and Condenser and 5 Years on Compressor from Voltas
+Lloyd,33999,1.5,3,4.1,250,29,Split,Yes,No,Copper,1002,35,R32,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Blue Star,28990,0.8,3,4.2,"4,750",592,Split,Yes,No,Copper,521,55,Not Available,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor From Blue Star
+Carrier,29999,1.5,4,4.2,767,76,Window,No,No,Copper,1558,50,R32,50,No,1 Year Warranty on Product and 5 Years on Compressor
+Whirlpool,31990,1,5,4.2,"28,306","3,577",Split,Yes,No,Copper,920,40,R32,55,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Samsung,32999,1.5,3,4.3,200,12,Split,No,No,Copper,1091,44,R32,Not Available,No,1 Year Standard Warranty on Product and 10 Years Warranty on Compressor From Samsung
+Whirlpool,33990,1,5,4,"4,598",524,Split,Yes,Yes,Copper,840,31,R32,Not Available,No,Not Available
+Samsung,46990,2,4,4.2,"24,029","2,445",Split,Yes,No,Copper,1820,45,R32,52,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Marq By Flipkart,31490,1.5,5,3.9,"5,350",734,Split,Yes,Yes,Copper,857,43,R32,55,No,1 Year Warranty on Product and 10 Years on Compressor from MarQ by Flipkart
+Midea,31999,1.5,3,4.1,27,2,Split,No,No,Copper,1445,38,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Voltas,31499,1.2,3,4.2,"8,317","1,007",Split,Yes,Yes,Copper,1430,44,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Lloyd,32999,1.5,3,4.1,351,42,Split,No,No,Copper,1087,42,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Daikin,46999,1.5,5,4.2,65,12,Split,Yes,No,Copper,1290,47,R32,Not Available,No,"1 Year on Product, 10 Years on Compressor and 5 Years on PCB"
+Voltas,26499,0.8,3,4.1,"3,203",350,Split,No,No,Copper,826,46,R22,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor From Voltas
+Samsung,44990,1.5,5,4.4,139,17,Split,Yes,Yes,Copper,1350,45,R32,Not Available,No,1 Year Standard Warranty on Product and 10 Years Warranty on Compressor From Samsung
+Panasonic,36490,1,5,4.3,"9,607","1,169",Split,Yes,No,Copper,990,45,R32,Not Available,Yes,"1 Year Comprehensive Warranty, 4 Years on PCB and 9 Years on Compressor"
+Lloyd,26890,1.5,3,4.2,"1,002",104,Window,No,No,Copper,1269,53,R32,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor From Lloyd
+Samsung,32490,1,4,4.2,"24,029","2,445",Split,Yes,No,Copper,960,40,R32,52,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Blue Star,35990,1.5,3,4.2,697,93,Split,No,No,Copper,1430,38,R34,Not Available,No,1 Year on Product and 5 Years Warranty on Compressor
+Voltas,35999,1.6,3,4.3,"13,118","1,346",Split,Yes,Yes,Copper,1880,46,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Whirlpool,29490,1,3,4.1,"7,689",848,Split,No,No,Copper,980,33,R32,48,No,Not Available
+Carrier,29100,1.5,4,Not Available,Not Available,Not Available,Window,No,No,Copper,1558,54,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Carrier,43490,1.5,5,4.3,"9,189","1,128",Split,Yes,Yes,Copper,1380,38,R32,52,No,"1 Year warranty on Product, 5 (1+4) Years on PCB and 10 (1+9) Years on Compressor"
+Whirlpool,25490,0.8,3,4.2,"28,306","3,577",Split,Yes,No,Copper,767,36,R410a,50,No,"1 Year on Comprehensive Unit , 10 years on compressor & 1 year on condensor"
+Daikin,39999,1.5,3,4.1,766,84,Split,No,No,Copper,1278,44,R32,50,No,1 Year Warranty on Product and 5 Years on Compressor
+Marq By Flipkart,27499,1.2,3,3.9,"5,350",734,Split,Yes,Yes,Copper,841,40,R32,55,No,1 Year Warranty on Product and 10 Years on Compressor from MarQ by Flipkart
+Voltas,33990,1.5,3,4.2,572,38,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Lloyd,30999,1.5,5,4.1,306,38,Window,No,No,Copper,1114,52,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Voltas,35799,1.5,3,5,5,0,Split,Yes,No,Copper,1835,46,R32,52,Yes,1 Year Warranty on Product and 10 Years on Compressor
+Ifb,39490,1.5,5,4.3,615,73,Split,Yes,No,Copper,1370,35,R32,Not Available,No,"1 Year Warranty on Product, 5 Years on ODU PCB and 10 Years on Compressor from IFB"
+Voltas,33284,1.5,5,4.1,114,7,Window,Yes,No,Copper,1131,54,Not Available,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor from Voltas
+Marq By Flipkart,26999,1,3,3.9,"5,350",734,Split,Yes,Yes,Copper,712,40,R32,55,No,1 Year Warranty on Product and 10 Years on Compressor from MarQ by Flipkart
+Voltas,33999,1.5,3,4.1,715,64,Split,Yes,No,Copper,1690,46,R32,50,No,1 Year Warranty on Product and 5 Years on Compressor
+Lg,37790,1.5,5,3.9,49,6,Window,Yes,No,Copper,1106,44,R32,Not Available,Yes,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Lloyd,37999,1.5,5,4.1,275,37,Split,Yes,No,Copper,864,35,R32,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Onida,36990,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1415,40,R32,Not Available,No,1 Year on Product and 5 Year on Compressor from Onida
+Voltas,39499,1.5,5,3.8,18,0,Split,Yes,No,Copper,1440,46,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Blue Star,32990,1.5,5,4,104,9,Window,No,No,Copper,114,55,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor
+Voltas,39499,1.5,5,3.8,18,0,Split,Yes,No,Copper,1440,46,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Carrier,45999,1.5,5,4.3,15,2,Split,Yes,No,Copper,1390,38,R32,55,Yes,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor"
+Lg,37990,1,5,4.1,"1,184",124,Split,Yes,Yes,Copper,571,21,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Lg,34490,1.5,4,3.9,637,75,Window,Yes,Yes,Copper,1114,44,R32,Not Available,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Blue Star,36490,1.5,3,4.2,"2,725",307,Split,Yes,Yes,Copper,1570,45,R37,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor
+Voltas,35999,1.5,4,4.2,794,73,Split,Yes,No,Copper,987,46,R32,Not Available,No,1 Year on Air Conditioner and 5 Years on Compressor
+Carrier,35999,1.5,3,4.2,"5,815",643,Split,No,No,Copper,1445,38,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Voltas,27159,1,3,4.2,"2,437",211,Window,No,No,Copper,Not Available,Not Available,R22,Not Available,No,1 Year on Product and 4 Years on Compressor
+Hitachi,45830,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,780,36,R32,Not Available,Yes,"2 Year on Product, 5 Years on Controller and 10 Years on Compressor"
+Blue Star,39290,1,5,4.2,"2,725",307,Split,Yes,Yes,Copper,955,44,R38,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor
+Lg,37999,1.5,5,4.3,"2,217",272,Window,No,No,Copper,5000,44,R32,Not Available,Yes,Not Available
+Panasonic,32999,1,3,4.3,"9,607","1,169",Split,Yes,No,Copper,1095,45,R32,Not Available,Yes,"1 Year Comprehensive Warranty, 4 Years on PCB and 9 Years on Compressor"
+Hisense,29990,1,4,4.2,"1,548",269,Split,Yes,Yes,Copper,1000,44,R32,48,No,5 Years Standard Warranty on Product and 10 Years on Compressor
+Daikin,33100,1,3,4.1,766,84,Split,No,No,Copper,848,37,R32,50,No,1 Year Warranty on Product and 5 Years on Compressor
+Lg,44990,2,5,4.2,59,7,Window,Yes,No,Copper,1370,44,Not Available,Not Available,No,"1 Year (Comprehensive), 10 Years (Compressor with Gas Charging)"
+Carrier,51999,2,3,4.2,663,69,Split,Yes,Yes,Copper,2010,39,R32,52,No,"1 Year warranty on Product, 5 (1+4) Years on PCB and 10 (1+9) Years on Compressor"
+Blue Star,28999,1.5,3,4,104,9,Window,No,No,Copper,1207,55,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor
+Lloyd,28999,0.8,3,4.1,250,29,Split,Yes,No,Copper,585,32,R32,52,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Ifb,46490,2,3,4.4,327,44,Split,Yes,No,Copper,6500,39,R32,Not Available,No,"1 Year Warranty on Product, 4 Year Super Warranty, 5 Years on ODU PCB and 10 Years on Compressor from IFB"
+Voltas,72990,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Godrej,33990,1,5,4.1,188,19,Split,Yes,No,Copper,584,40,R290,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Hitachi,35999,1.5,3,3.9,459,47,Split,No,No,Copper,1495,39,R32,52,No,1 Year Warranty on Complete Product and 5 Years on Compressor
+Voltas,33999,1.5,3,4.2,"13,218","1,282",Split,No,No,Copper,1450,47,R32,Not Available,No,1 Year on Product and 5 Years on Compressor
+Carrier,27999,1,3,4.2,767,76,Window,No,No,Copper,1110,52,R32,50,No,1 Year Warranty on Product and 5 Years on Compressor
+Hitachi,35999,1.5,3,3.9,459,47,Split,No,No,Copper,1495,39,R32,52,No,1 Year Warranty on Complete Product and 5 Years on Compressor
+Godrej,33990,1,5,4.1,188,19,Split,Yes,No,Copper,584,40,R290,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Voltas,33999,1.5,3,4.2,"13,218","1,282",Split,No,No,Copper,1450,47,R32,Not Available,No,1 Year on Product and 5 Years on Compressor
+Ifb,35999,1.5,3,4.3,"1,893",291,Split,Yes,No,Copper,1088,35,R32,58,No,Not Available
+Realme Techlife,33999,1.5,5,4,"1,154",200,Split,Yes,Yes,Copper,837,43,R32,55,No,1 Year Warranty on Product and 10 Years on Compressor
+Lloyd,32999,1,3,4,508,71,Split,Yes,No,Copper,698,32,R32,52,Yes,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Croma,24990,1,3,4,69,13,Split,No,No,Copper,970,52,R32,Not Available,No,1 Year on Machine 5 Years on Compressor From Croma
+Voltas,43999,2,3,4.2,"13,218","1,282",Split,No,No,Copper,1937,44,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Blue Star,30490,1,3,4,5,0,Split,No,No,Copper,940,50,R32,Not Available,No,1 Year on Product and 5 Years Warranty on Compressor
+Panasonic,34999,1.5,3,4.2,"1,089",145,Split,Yes,No,Copper,1056,48,R32,Not Available,No,"1 Year Comprehensive on Warranty Product, 4 Years on PCB and 9 Years On Compressor"
+Hitachi,42999,1.5,5,3.9,"2,691",279,Split,Yes,No,Copper,897,37,R32,52,No,1 Year Warranty on Complete Product and 10 Years on Compressor
+Carrier,40999,1.5,5,4.3,"9,189","1,128",Split,Yes,Yes,Copper,1500,38,R32,Not Available,No,"1 Year Warranty on Product, 2 Years on PCB and 10 Years on Compressor from Carrier"
+Samsung,30490,1,3,4.3,200,12,Split,No,No,Copper,920,42,R32,Not Available,No,1 Year Standard Warranty on Product and 10 Years Warranty on Compressor From Samsung
+Lloyd,39499,1.5,5,4,508,71,Split,Yes,No,Copper,864,35,R32,52,Yes,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Lg,33990,1,3,4,"1,144",119,Split,Yes,Yes,Copper,680,21,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Daikin,30499,1.5,3,4.2,216,29,Window,No,No,Copper,1265,50,Not Available,Not Available,No,1 Year on Product and 4 Years on Compressor
+Whirlpool,32999,1,5,4,"2,918",336,Split,Yes,Yes,Copper,560,45,R32,Not Available,No,Not Available
+Lg,46490,1.5,5,4.2,60,4,Split,Yes,Yes,Copper,818,31,R32,Not Available,No,"1 Year on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Samsung,36680,1.5,4,3.3,3,0,Split,Yes,No,Copper,1490,45,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+Lloyd,29499,1,3,4.1,351,42,Split,No,No,Copper,735,40,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Lloyd,34999,1.2,5,4.1,275,37,Split,Yes,No,Copper,690,32,R32,52,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Whirlpool,36990,1.5,5,4,"2,918",336,Split,Yes,Yes,Copper,770,45,R32,Not Available,No,"1 Year Warranty on Product, 1 Year on Condenser and 10 Years on Compressor"
+Voltas,48990,1,3,4.6,11,3,Split,Yes,No,Copper,1155,46,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Panasonic,54990,2,5,4.3,"9,607","1,169",Split,Yes,No,Copper,1740,50,R32,Not Available,Yes,"1 Year Comprehensive Warranty, 4 Years on PCB, 9 Years on Compressor and 4 Years on ODU Casing"
+Motorola,36999,1.5,5,4.2,37,9,Split,Yes,Yes,Copper,837,43,R32,55,No,1 Year on Product and 10 Years on Compressor
+Hitachi,26599,1,3,4,"1,960",209,Window,No,No,Copper,921,50,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Haier,35990,1.4,3,4,3,0,Split,Yes,No,Copper,1016,29,R32,Not Available,No,1 Year Warranty on Product and 12 Years on Compressor From Haier
+Blue Star,26990,1,3,3.9,118,16,Window,No,No,Copper,1086,55,R32,17,No,1 Year Warranty on Product and 5 Years on Compressor
+Thomson,32999,1.5,5,4.2,392,89,Split,Yes,Yes,Copper,1350,49,R32,Not Available,No,1 Year on Product and 10 Years on Compressor Warranty
+Blue Star,37699,1.5,3,4,5,0,Split,Yes,No,Copper,1750,43,R32,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor
+Blue Star,31750,1,5,4.3,68,8,Window,No,No,Copper,1015,55,R32,17,No,1 Year Warranty on Product and 5 Years on Compressor
+Daikin,38999,1.5,3,4.3,31,0,Split,No,No,Alloy,1304,42,R32,50,No,"1 Year Warranty on Product, 5 Years on Condenser, and 5 Years on Compressor"
+Hitachi,33990,1,3,3.9,"2,691",279,Split,Yes,No,Copper,688,37,R32,52,No,1 Year Warranty on Complete Product and 10 Years on Compressor
+Hitachi,58799,2,5,3.4,10,4,Split,Yes,No,Copper,1158,37,R410A,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Panasonic,50990,2,3,4.3,"9,607","1,169",Split,Yes,No,Copper,2090,50,R32,Not Available,Yes,"1 Year Comprehensive Warranty, 4 Years on PCB and 9 Years on Compressor"
+Samsung,41490,1.5,5,4.1,199,28,Split,Yes,No,Copper,1380,49,R32,Not Available,Yes,1 Year Standard Warranty on Product and 10 Years Warranty on Compressor From Samsung
+Realme Techlife,28790,1,4,4,"1,154",200,Split,Yes,Yes,Copper,642,40,R32,55,No,1 Year Warranty on Product and 10 Years on Compressor
+Whirlpool,32990,1.5,3,4,"2,918",336,Split,Yes,Yes,Copper,1450,45,R32,35,No,Not Available
+Lg,32499,1.5,2,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1800,26,R32,Not Available,No,1 Year on Product and 10 Years on Compressor
+Panasonic,35490,1.5,3,4.2,"1,089",145,Split,Yes,No,Copper,1770,48,R32,Not Available,No,"1 Year Comprehensive Warranty, 4 Years on PCB and 9 Years on Compressor"
+Whirlpool,29999,1,3,4.1,40,4,Split,Yes,No,Copper,1390,32,R32,35,No,Not Available
+Lloyd,27490,1,3,4.1,306,38,Window,No,No,Copper,808,52,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Godrej,42990,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,840,43,R32,52,Yes,1 Year Warranty on Product and 10 Years on Compressor
+Daikin,40599,1,5,4.2,898,93,Split,Yes,No,Copper,940,42,R32,54,No,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Samsung,33490,1.5,3,4.1,354,27,Split,Yes,No,Copper,1700,45,R32,52,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Onida,31499,1.5,3,4.3,"5,183",613,Split,Yes,No,Copper,1820,45,R32,58,No,1 Year on Product and 5 Year on Compressor from Onida
+Lg,53990,2,3,4.1,140,7,Split,Yes,Yes,Copper,1232,32,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Lg,46279,1.5,5,4.1,65,9,Split,Yes,No,Copper,818,31,R32,52,Yes,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Marq By Flipkart,26999,1,3,4.2,"10,293","1,394",Split,No,No,Copper,741,39,R32,Not Available,No,1 Year on Product and 5 Years on Compressor
+Blue Star,30990,1,3,4.2,"1,758",167,Split,No,No,Copper,955,34,R33,Not Available,No,1 Year on Product and 5 Years Warranty on Compressor
+Hitachi,33990,1.5,5,4,"1,960",209,Window,No,No,Copper,1134,50,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Lloyd,35499,1.5,3,4,508,71,Split,Yes,No,Copper,1002,35,R32,52,Yes,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Godrej,29490,1,3,4.1,188,19,Split,Yes,No,Copper,752,40,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Hisense,32999,1.5,4,4.2,"1,548",269,Split,Yes,Yes,Copper,939,49,R32,48,No,5 Years Standard Warranty on Product and 10 Years on Compressor
+Blue Star,43050,1.5,4,4.4,5,0,Split,Yes,No,Copper,932,37,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+Motorola,43990,2,3,4.4,573,96,Split,Yes,No,Copper,1356,38,R32,60,Yes,Not Available
+Whirlpool,30999,1,3,4,"4,598",524,Split,Yes,Yes,Copper,1080,32,R32,Not Available,No,Not Available
+Voltas,34999,1.5,3,4.1,"1,405",138,Split,Yes,No,Copper,1690,46,R32,50,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Lloyd,33990,1.5,3,4.2,696,73,Split,Yes,No,Copper,1420,42,R32,Not Available,No,1 Year Comprehensive Warranty and 5 Years Warranty on Compressor
+Croma,42990,2,3,5,3,1,Split,Yes,Yes,Copper,2070,49,R32,Not Available,No,1 Year on Product and 10 Years on Compressor
+Midea,30499,1,3,5,3,0,Split,Yes,No,Copper,1170,33,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Lg,38490,1,5,4.2,60,4,Split,Yes,Yes,Copper,571,21,R32,Not Available,No,"1 Year on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Candy,31999,1.5,3,4.1,258,49,Split,Yes,No,Copper,1089,28,R32,60,No,1 Year Warranty on Product and 10 Years on Compressor
+Thomson,29999,1.5,3,4.2,392,89,Split,Yes,Yes,Copper,1640,49,R32,Not Available,No,1 Year on Product and 10 Years on Compressor Warranty
+Blue Star,33990,1,3,4.2,"2,725",307,Split,Yes,No,Copper,1060,44,R35,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor
+Thomson,27490,1,3,4.5,181,38,Split,No,No,Copper,944,48,R32,Not Available,No,1 Year on Product and 10 Years on Compressor Warranty
+Voltas,31999,1.5,2,4.1,91,8,Split,No,No,Copper,1450,46,R32,50,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Blue Star,32990,1.2,3,4.4,"3,529",423,Split,Yes,No,Copper,1440,40,Not Available,52,No,"1 Year on Product and Condenser, 10 Years on Compressor warranty from Blue Star."
+Haier,28990,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,732,26,R32,60,No,1 Year Warranty on Product and 12 Years on Compressor
+Samsung,43469,1.5,5,4.3,19,0,Split,Yes,No,Copper,1380,59,R32,Not Available,Yes,"1 Year on product 5 Years Warranty On Condenser, 10 Years Warranty On Compressor"
+Daikin,47000,1.5,5,4.2,898,93,Split,Yes,No,Copper,1325,48,R32,54,No,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Haier,27294,1,3,Not Available,Not Available,Not Available,Split,No,No,Copper,704,26,R32,54,No,1 Year Warranty on Product and 6 Years on Compressor
+Thomson,27490,1,3,4.5,181,38,Split,No,No,Copper,944,48,R32,Not Available,No,1 Year on Product and 10 Years on Compressor Warranty
+Samsung,43469,1.5,5,4.3,19,0,Split,Yes,No,Copper,1380,59,R32,Not Available,Yes,"1 Year on product 5 Years Warranty On Condenser, 10 Years Warranty On Compressor"
+Daikin,47000,1.5,5,4.2,898,93,Split,Yes,No,Copper,1325,48,R32,54,No,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Blue Star,25540,0.8,4,4,5,1,Window,No,No,Copper,838,50,R32,Not Available,No,1 Year on Product and 5 Years Warranty on Compressor
+Whirlpool,35900,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,2550,40,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Lloyd,36399,1.5,3,4.3,553,64,Split,Yes,No,Copper,1030,42,R32,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor From Lloyd
+Lg,34948,1.5,3,4,6,1,Split,Yes,No,Copper,1600,31,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor From LG
+Lloyd,26890,1.5,3,3.7,7,0,Window,No,No,Copper,1254,53,Not Available,Not Available,No,1 Year Warranty on Product and 5 Years on Compresser
+Voltas,31490,1,3,3.9,59,4,Split,No,No,Copper,1720,59,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Haier,27294,1,3,Not Available,Not Available,Not Available,Split,No,No,Copper,704,26,R32,54,No,1 Year Warranty on Product and 6 Years on Compressor
+Lloyd,27999,1.5,3,3.9,85,8,Window,No,No,Copper,1215,52,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Voltas,55555,2,5,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Carrier,48999,2,3,4.2,"5,815",643,Split,No,No,Copper,1665,40,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Haier,28990,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1123,29,R32,Not Available,No,1 Year Warranty on Product and 6 Years on Compressor From Haier
+Lg,45990,1.5,5,4,10,1,Split,Yes,No,Copper,818,31,Not Available,Not Available,Yes,1 Year Warranty on Product and 10 Years on Compressor from LG
+Croma,29990,1.5,5,Not Available,Not Available,Not Available,Window,No,No,Copper,1510,52,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Blue Star,36500,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1456,34,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Hitachi,36590,2,2,4.2,"2,101",254,Window,No,No,Copper,1733,52,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Daikin,34620,1,4,4.1,14,2,Split,Yes,No,Copper,1200,27,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Blue Star,38990,1.5,3,4.2,"2,725",307,Split,Yes,No,Copper,975,62,R32,52,No,1 Year Warranty on Product and 10 Years on Inverter Compressor
+Lg,34990,1,3,3.8,54,8,Split,Yes,No,Copper,680,21,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Voltas,41990,1.5,5,4.2,342,36,Split,Yes,No,Copper,1430,45,R32,52,No,1 Year on Product and 5 Years on Compressor from Voltas
+Whirlpool,36990,1.5,5,4.2,"28,306","3,577",Split,Yes,No,Copper,1365,43,R32,55,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Lloyd,28999,1.5,4,4.1,306,38,Window,No,No,Copper,1180,54,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Whirlpool,36990,1.5,5,4.2,"28,306","3,577",Split,Yes,No,Copper,1365,43,R32,55,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Lloyd,28999,1.5,4,4.1,306,38,Window,No,No,Copper,1180,54,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Panasonic,32490,1,3,4.2,"1,089",145,Split,Yes,No,Copper,1095,45,R32,Not Available,No,"1 Year Comprehensive Warranty, 4 Years on PCB and 9 Years on Compressor"
+Blue Star,32990,1.2,3,4.3,176,14,Split,Yes,No,Copper,926,58,R32,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor From Blue Star
+Lloyd,25900,1,3,4.2,261,30,Window,No,No,Copper,1118,52,R410A,Not Available,No,Not Available
+Croma,33990,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,833,44,R32,Not Available,No,1 Year on Machine 10 Years on Compressor from Croma
+Lg,42190,1.5,5,4.1,7,0,Split,Yes,No,Copper,5800,31,R32,Not Available,No,"1 Year on Product, 5 Years on PCB and 10 Years on Compressor from LG"
+Samsung,35999,1.5,4,4.2,"24,029","2,445",Split,Yes,No,Copper,1490,45,R32,52,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Carrier,54999,2,5,4.3,"9,189","1,128",Split,Yes,Yes,Copper,1780,38,R32,Not Available,No,"1 Year Warranty on Product, 2 Years on PCB and 10 Years on Compressor from Carrier"
+Daikin,37340,1,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1145,32,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Daikin,36999,1,3,4.1,11,0,Split,Yes,No,Copper,1200,26,R32,50,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor"
+Samsung,35500,1.5,3,3.7,10,0,Split,Yes,No,Copper,1700,36,R32,Not Available,Yes,5 Years Warranty on Product and 10 Years on Compressor
+Carrier,33999,1.5,5,4.2,767,76,Window,No,No,Copper,1522,58,R32,50,No,1 Year Warranty on Product and 5 Years on Compressor
+Onida,29990,1,3,4.5,"2,804",508,Split,Yes,No,Copper,1220,50,Not Available,50,No,1 Year Warranty on Product and 5 Years on Compressor from Onida
+Samsung,41500,1.5,4,4.4,10,1,Split,Yes,No,Copper,1500,35,R32,Not Available,Yes,5 Years Comprehensive Warranty on Product and 10 Years on Compressor
+Whirlpool,29490,1,3,4.2,"28,306","3,577",Split,Yes,No,Copper,1075,42,R32,52,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from Whirlpool"
+Voltas,31490,1,3,3.8,15,0,Split,Yes,No,Copper,3440,44,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 5 Years on Compressor"
+Hisense,44499,2,3,4.2,"1,548",269,Split,Yes,Yes,Copper,1920,49,R32,48,No,5 Years Standard Warranty on Product and 10 Years on Compressor
+Lg,38350,1,5,4.8,6,1,Split,Yes,No,Copper,571,21,R32,52,Yes,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Lloyd,32899,1,3,Not Available,Not Available,Not Available,Split,No,No,Copper,781,42,Not Available,Not Available,No,1 Year Warranty on Product and 5 Years on Compresser
+Onida,31999,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1090,37,R32,Not Available,No,1 Year on Product and 5 Year on Compressor from Onida
+Carrier,38390,2,3,3.6,18,0,Window,No,No,Copper,1925,55,R32,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor
+Lloyd,27990,1.5,3,4.4,33,3,Window,No,No,Copper,1700,53,R32,Not Available,No,Not Available
+Voltas,29849,1.5,3,4.3,"2,498",309,Window,No,No,Copper,1649,Not Available,R22,Not Available,No,1 Year on Product and 4 Years on Compressor
+Lloyd,47499,2,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1386,38,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Hitachi,41999,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1540,34,R410A,Not Available,No,Not Available
+Carrier,37975,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1700,37,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Blue Star,50999,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,2025,43,R32,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor
+Lloyd,39000,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1800,49,R410A,Not Available,No,Not Available
+Haier,25990,0.9,3,Not Available,Not Available,Not Available,Split,No,No,Copper,704,26,R32,Not Available,No,1 Year Warranty on Product and 6 Years on Compressor From Haier
+Panasonic,48999,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1264,50,R32,Not Available,Yes,"1 Year Comprehensive on Warranty Product, 4 Years on PCB and 9 Years On Compressor"
+Daikin,39990,1.5,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1670,45,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Blue Star,33290,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,704,39,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor
+Carrier,38999,1.5,3,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1700,37,R32,52,No,"1 Year warranty on Product, 5 (1+4) Years on PCB and 10 (1+9) Years on Compressor"
+Lg,56990,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,818,31,R32,52,Yes,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Panasonic,34990,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1015,47,Not Available,Not Available,No,"1 Year on Product, 5 Year on PCB and 5 Years on Compressor from Panasonic"
+Godrej,33999,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1056,40,R290,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Daikin,50115,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1315,28,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Daikin
+Croma,33990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1740,38,R32,Not Available,No,1 Year Comprehensive Warranty and 10 Years on Compressor
+Voltas,28890,1.5,3,Not Available,Not Available,Not Available,Window,No,No,Copper,1729,58,R22,Not Available,No,1 Year on Product and 4 Years on Compressor
+Ifb,38490,1.6,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,5650,35,R32,Not Available,No,"1 Year Warranty on Product, 4 Year Super Warranty, 5 Years on ODU PCB and 10 Years on Compressor from IFB"
+Ifb,42990,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1370,38,R32,58,No,Not Available
+Daikin,52999,1.8,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1950,32,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Carrier,35999,1.2,5,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1050,32,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor from Carrier
+Voltas,38730,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1424,45,R32,50,No,1 Year Warranty on Product and 4 Years on Compressor
+Lg,37490,1.5,3,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1050,26,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Carrier,57999,2,5,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1695,38,R32,52,No,"1 Year warranty on Product, 5 (1+4) Years on PCB and 10 (1+9) Years on Compressor"
+Panasonic,30990,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,731,45,R32,Not Available,No,"1 Year Comprehensive on Warranty Product, 4 Years on PCB and 9 Years On Compressor"
+Nokia,31990,1.5,3,4.2,254,41,Split,Yes,Yes,Copper,1009,38,R32,Not Available,No,1 Year on Product and 5 Years on Compressor
+Voltas,39490,1.5,5,4.3,"1,787",168,Split,Yes,No,Copper,1590,46,Not Available,52,No,1 Year on Product and 5 Years on Compressor from Voltas
+Daikin,25999,0.8,3,4.3,"1,939",196,Split,No,No,Copper,767,29,R32,Not Available,No,1 Year on Product and 5 Years on Compressor
+Daikin,32200,1,3,4.2,"2,453",233,Split,Yes,No,Copper,1110,26,R32,Not Available,No,1 Year on Product and 10 Years on Compressor From Daikin
+Lloyd,31999,1,3,4,700,67,Split,No,No,Copper,743,40,R32,52,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor From Lloyd
+Voltas,36349,2,2,4.1,35,4,Window,No,No,Copper,2000,58,Not Available,Not Available,No,1 Year on Product and Condenser and 10 Years on Compressor from Voltas
+Ifb,40240,1.5,3,4.4,545,86,Split,Yes,No,Copper,1119,35,R32,58,No,Not Available
+Blue Star,31300,1.5,3,Not Available,Not Available,Not Available,Window,No,No,Copper,1560,53,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Lloyd,37500,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1835,42,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+Godrej,34499,1,5,4.3,31,2,Split,Yes,No,Copper,611,40,R32,Not Available,No,1 Year Comprehensive and 10 Years on Compressor
+Haier,36990,1.5,3,4.6,12,1,Split,Yes,No,Copper,1780,40,Not Available,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Blue Star,38990,1.5,4,4.2,"1,087",145,Split,Yes,No,Copper,977,58,R32,Not Available,No,1 Year on Product and 10 Years Warranty on Inverter Compressor from Blue Star
+Lg,55990,2,3,4.4,47,8,Split,Yes,No,Copper,1232,34,R32,Not Available,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Panasonic,54990,2,5,4.3,"9,607","1,169",Split,Yes,No,Copper,1013,43,R32,Not Available,Yes,"1 Year Product Warranty, 10 Years Compressor Warranty, 5 Years PCB  Warranty"
+Hisense,37999,1.5,5,4.2,"1,548",269,Split,Yes,Yes,Copper,1365,49,R32,48,No,5 Years Standard Warranty on Product and 10 Years on Compressor
+Blue Star,25499,1,3,4,207,25,Window,No,No,Copper,1050,50,R32,17,No,1 Year Warranty on Product and 5 Years on Compressor
+Voltas,32290,1,3,4.4,5,0,Split,No,No,Copper,980,45,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Blue Star,36524,1.2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1466,58,R32,52,No,1 Year on Product and 10 Years on Compressor from Blue Star
+Onida,36999,1.5,5,4.3,830,139,Split,Yes,No,Copper,1525,38,Not Available,52,No,1 Year on Product and 4 Years on Compressor
+Marq By Flipkart,23490,1,3,4.3,"13,779","1,943",Split,Yes,No,Copper,725,32,R32,Not Available,No,1 Year on Product and 5 Years on Compressor
+Motorola,31999,1.5,3,4.2,37,9,Split,Yes,Yes,Copper,1013,43,R32,55,No,1 Year on Product and 10 Years on Compressor
+Blue Star,40399,2,3,4.3,68,8,Window,No,No,Copper,2016,57,R32,17,No,1 Year Warranty on Product and 5 Years on Compressor
+Lloyd,41499,1.5,5,4.2,464,53,Split,Yes,No,Copper,1370,42,R32,Not Available,No,1 Year Comrehensive Warranty and 10 Years Warranty on Compressor from Lloyd
+Marq By Flipkart,21490,0.8,3,4.3,"13,779","1,943",Split,Yes,No,Copper,685,29,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor From MarQ by Flipkart
+Lloyd,31299,1,3,3.9,10,0,Split,Yes,No,Copper,745,55,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor from LLOYD
+Panasonic,32679,1.5,5,Not Available,Not Available,Not Available,Window,No,No,Copper,1168,56,R32,Not Available,No,1 Year Comprehensive Warranty and 4 Years on Compressor
+Panasonic,38472,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,915,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Marq By Flipkart,21490,0.8,3,4.3,"13,779","1,943",Split,Yes,No,Copper,685,29,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor From MarQ by Flipkart
+Samsung,33779,1.5,3,4.3,200,12,Split,No,No,Copper,1410,44,Not Available,Not Available,No,"1 Year Comprehensive Warranty on Product, 1 Year on PCB, 1 Year on Condenser, 1 Year on Gas Recharge and 5 Years on Compressor from Samsung"
+Voltas,33499,1,3,4.1,447,45,Split,No,No,Copper,1002,46,R22,50,No,1 Year Manufacturer Warranty from Voltas
+Whirlpool,36990,1.5,3,4.1,17,1,Split,Yes,No,Copper,1890,37,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Godrej,37490,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1046,43,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Hitachi,40350,1.5,5,Not Available,Not Available,Not Available,Window,Yes,No,Copper,1179,50,R32,Not Available,No,"1 Year on Product, 1 Year on Controller and 10 Years on Compressor"
+Blue Star,40870,1.5,5,3.9,118,16,Window,Yes,No,Copper,1565,55,R32,17,No,1 Year Warranty on Product and 5 Years on Compressor
+Carrier,40770,1.5,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1595,37,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Godrej,39399,1.5,5,4.2,9,0,Split,Yes,No,Copper,1380,40,R32,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Carrier,31990,1.5,5,4.3,"1,386",178,Window,No,No,Copper,1575,56,R32,Not Available,No,1 Year on Complete Unit and 5 (1+4) Years on Compressor
+Hitachi,35490,1.5,3,Not Available,Not Available,Not Available,Window,Yes,No,Copper,1279,50,R32,Not Available,No,"1 Year on Product, 1 Year on Controller and 10 Years on Compressor"
+Whirlpool,31851,1,3,5,3,0,Split,Yes,No,Copper,1140,30,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Godrej,32490,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1785,42,R32,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Lloyd,39994,1,3,4.1,161,16,Split,Yes,No,Copper,1050,40,R410A,Not Available,No,Not Available
+Panasonic,29174,1.5,3,5,3,0,Window,No,No,Copper,1238,56,R32,Not Available,No,1 Year Comprehensive Warranty and 4 Years on Compressor
+Whirlpool,40500,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1890,37,R32,55,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Midea,39499,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1380,38,R32,52,Yes,1 Year Warranty on Product and 10 Years on Compressor
+Nokia,28190,1,3,4.2,254,41,Split,Yes,Yes,Copper,685,38,R32,Not Available,No,1 Year on Product and 5 Years on Compressor
+Lumx,28499,1.5,4,3.5,33,2,Split,Yes,No,Copper,1470,43,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 5 Years on Compressor from Lumx"
+Haier,31999,1,3,4.3,10,5,Split,Yes,No,Copper,1200,40,Not Available,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Lg,38490,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,5000,26,R32,Not Available,No,"1 Year on Product, 5 Years on PCB and 10 Years on Compressor from LG"
+Panasonic,36690,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1660,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Croma,26990,1.5,3,Not Available,Not Available,Not Available,Window,No,No,Copper,1600,52,R32,48,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Carrier,40261,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1118,38,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Lg,38490,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,5000,26,R32,Not Available,No,"1 Year on Product, 5 Years on PCB and 10 Years on Compressor from LG"
+Voltas,39990,1.5,5,4.3,"4,519",478,Split,Yes,No,Copper,1355,46,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Lg,51999,1.5,5,3.3,3,0,Split,Yes,No,Copper,749,31,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Godrej,28579,1,3,4.1,37,3,Split,Yes,No,Copper,752,40,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Lg,46500,1.5,5,4.3,237,36,Split,Yes,No,Copper,1440,31,R32,Not Available,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Croma,36990,1.5,5,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1365,49,R32,Not Available,No,1 Year on Product and 10 Years on Compressor
+Daikin,40941,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Carrier,40999,1.5,3,4.4,"17,558","2,289",Split,Yes,Yes,Copper,1500,44,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Croma,28990,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1430,49,R32,Not Available,No,"1 Year on Product, 5 Years on Compressor and 5 Years on Condenser"
+Croma,30390,1,3,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1210,35,R32,Not Available,No,1 Year Comprehensive Warranty and 10 Years on Compressor
+Midea,29990,1.5,4,4.3,"8,217","1,203",Split,Yes,No,Copper,1800,42,R410A,Not Available,No,1 Year on Product and 10 Years on Compressor
+Blue Star,35141,1.5,3,3.5,6,0,Window,Yes,No,Copper,1680,55,R32,17,No,1 Year Warranty on Product and 5 Years on Compressor
+Lg,47039,1.5,5,3.9,61,6,Split,Yes,No,Copper,1015,31,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Daikin,45950,1.5,4,3.7,14,2,Split,Yes,No,Copper,1325,32,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Samsung,47990,2,4,4.1,32,3,Split,Yes,No,Copper,1158,45,Not Available,Not Available,No,"5 Year Comprehensive Warranty on Product, 5 Year on PCB, 5 Year on Condenser, 5 Year on Gas Recharge and 5 Years on Compressor from Samsung"
+Samsung,31990,1,3,4.5,4,1,Split,Yes,No,Copper,960,40,R32,Not Available,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Lloyd,29390,1,5,4.2,345,43,Split,No,No,Copper,960,36,R32,Not Available,No,1 Year Comrehensive Warranty and 5 Years Warranty on Compressor from Lloyd
+Blue Star,42590,1.5,3,4.5,4,0,Split,Yes,No,Copper,1456,34,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Voltas,33824,1,3,Not Available,Not Available,Not Available,Split,No,No,Copper,3450,45,R32,Not Available,No,"2 Years on AC, 10 Years on Compressor and 5 Years on Controller and PCB"
+Daikin,38000,1.5,5,4.2,"2,453",233,Split,Yes,No,Copper,1752,35,R32,Not Available,No,1 Year on Product and 10 Years on Compressor From Daikin
+Panasonic,35900,1,5,4.8,8,2,Split,Yes,No,Copper,588,43,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years on Compresser
+Carrier,36290,1.5,3,4.3,284,37,Window,No,No,Copper,1582,50,Not Available,Not Available,No,1 Year on Complete Unit and 5 Years on Compressor
+Midea,33999,1.5,5,2.7,3,0,Split,Yes,No,Copper,1700,37,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Daikin,43990,1,4,4.3,25,4,Split,Yes,No,Copper,822,48,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor
+Samsung,46999,2,3,4.1,354,27,Split,Yes,No,Copper,1820,45,R32,52,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Godrej,32990,1.5,3,4.2,32,3,Split,Yes,No,Copper,1840,60,R32,Not Available,No,1 Year On Product and Condenser Coil Warranty and 5 Years On Compressor from Godrej
+Marq By Flipkart,30999,1.5,4,4.2,"10,293","1,394",Split,No,No,Copper,1093,37,R32,Not Available,No,1 Year on Product and 5 Years on Compressor
+Lg,42490,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,5500,31,R32,Not Available,Yes,"1 Year on Product, 5 Years on PCB and 10 Years on Compressor from LG"
+Croma,28990,1.4,3,4.5,4,0,Split,Yes,No,Copper,1625,52,R32,Not Available,No,"1 Year on Product, 5 Years on Condenser and 10 Years on Compressor"
+Whirlpool,34480,1.5,3,4.3,35,2,Split,Yes,No,Copper,1087,37,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Whirlpool
+Lloyd,36999,1.5,4,4.1,15,1,Split,Yes,No,Copper,1440,57,R32,Not Available,No,1 Year on Product 5 Years on Compressor Manufacturer Warranty from Lloyd
+Haier,37499,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1630,59,Not Available,Not Available,No,1 Year on Product and 12 Years on Compressor from Haier
+Daikin,52890,1.8,5,4.2,"2,453",233,Split,Yes,No,Copper,1970,38,R32,Not Available,No,1 Year on Product and 10 Years on Compressor from Daikin
+Onida,34490,1,4,4.9,12,1,Split,Yes,No,Copper,Not Available,Not Available,R32,50,No,1 Year Comprehensive and 4 Years on Compressor
+Daikin,44316,1.5,5,4.8,6,1,Split,Yes,No,Copper,1600,32,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Lloyd,40490,1.5,5,3.7,23,3,Split,Yes,No,Copper,865,42,Not Available,Not Available,Yes,1 Year Warranty on Product and 10 Years on Compresser
+Croma,35990,1.5,5,Not Available,Not Available,Not Available,Window,Yes,No,Copper,1630,52,R32,48,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Lloyd,37999,1,4,4.3,436,41,Split,Yes,No,Copper,574,36,R32,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor From Lloyd
+Whirlpool,36480,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Panasonic,37249,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,915,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Voltas,42649,1.5,3,4.5,4,0,Split,Yes,No,Copper,1430,46,R32,52,Yes,1 Year Warranty on Product and 10 Years on Compressor
+Onida,34999,1.5,5,4.3,960,139,Split,Yes,No,Copper,1600,38,R32,52,Yes,1 Year on Product and 5 Year on Compressor from Onida
+Hitachi,33999,1.5,4,3.9,24,2,Split,No,No,Copper,1495,36,R32,Not Available,No,1 Year on Complete Unit and 5 Years on Compressor From Hitachi
+Godrej,36900,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,781,44,R290,52,No,"1 Year Warranty on Product, 1 Year on Condenser, and 10 Years on Compressor"
+Panasonic,54017,2,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1660,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Hitachi,33999,1.5,3,3.9,24,2,Split,No,No,Copper,1495,36,R32,Not Available,No,1 Year on Complete Unit and 5 Years on Compressor From Hitachi
+Lg,47990,1.5,5,4.1,82,11,Split,Yes,No,Copper,818,31,R32,52,Yes,"1 Year Warranty on Product, 5 Years on PCB, and 10 Years on Compressor with Gas Charging"
+Croma,30990,1.5,5,4,42,7,Split,No,No,Copper,1420,52,R32,Not Available,No,1 Year on Machine 5 Years on Compressor From Croma
+Lg,43990,1.5,3,4.2,"6,975",734,Split,Yes,Yes,Copper,818,31,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from LG"
+Samsung,35999,1.5,3,4.2,"8,874",856,Split,Yes,No,Copper,1380,44,Not Available,Not Available,No,"1 Year Comprehensive Warranty on Product, 1 Year on PCB, 1 Year on Condenser, 1 Year on Gas Recharge and 10 Years on Compressor from Samsung"
+Lloyd,26890,1.5,3,4.3,124,12,Window,No,No,Copper,1233,53,R32,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor
+Samsung,35699,1.5,4,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1700,31,R32,Not Available,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Whirlpool,33590,1.5,3,4.3,732,114,Split,Yes,No,Copper,1890,37,R32,55,No,1 Year on Unit 10 Years on Compressor from Whirlpool
+Panasonic,54017,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1660,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Blue Star,34000,1.2,3,4.7,3,0,Split,No,No,Copper,1131,36,R32,Not Available,No,5 Years on Compressor from Blue Star
+Blue Star,38290,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1456,34,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor
+Lloyd,48900,2,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,2170,59,Not Available,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from Llyod"
+Lg,33990,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,3650,21,R32,Not Available,No,"1 Year on Product, 5 Year on PCB, 10 Year on Compressor"
+Haier,40990,1.5,4,4.1,39,3,Split,Yes,No,Copper,1440,40,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Croma,27990,1,5,3.9,10,1,Split,Yes,Yes,Copper,1070,44,R32,Not Available,No,"1 Year on Product, 5 Years on Condenser and 10 Years on Compressor"
+Blue Star,30990,1.5,4,4.1,19,6,Window,No,No,Copper,1510,55,R32,17,No,1 Year Warranty on Product and 5 Years on Compressor
+Lg,44999,1.5,3,4,10,0,Split,Yes,No,Copper,400,31,R32,Not Available,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor"
+Panasonic,42450,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1660,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Panasonic,33990,1,5,4.3,"9,607","1,169",Split,Yes,No,Copper,685,37,R32,Not Available,Yes,"1 Year Product Warranty, 10 Years Compressor Warranty, 5 Years PCB  Warranty"
+Blue Star,32500,1,3,4.4,53,5,Split,Yes,No,Copper,1122,50,R,52,No,"1 Year on Product and Condenser, 10 Years on Compressor from Blue Star"
+Marq By Flipkart,25499,1.5,3,4.3,"1,345",193,Window,No,No,Copper,1520,60,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor
+Hitachi,28999,1.5,3,4,"1,960",209,Window,No,No,Copper,1277,50,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Voltas,36990,1,3,3.9,21,4,Split,Yes,No,Copper,1130,46,Not Available,52,No,1 Year on Product and Condenser and 5 Years on Compressor
+Panasonic,37199,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Carrier,39490,1.5,3,3.3,3,2,Split,No,No,Not Available,983,40,R22,Not Available,No,1 Year on Product and 5 Years on Compressor
+Voltas,36990,1,4,3.9,21,4,Split,Yes,No,Copper,1130,46,Not Available,52,No,1 Year on Product and Condenser and 5 Years on Compressor
+Panasonic,37199,1.5,4,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Panasonic,34465,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1115,38,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Toshiba,30500,1,5,4,5,0,Split,No,No,Copper,1200,37,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Date of Purchase
+Panasonic,63749,2.2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,2250,42,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Lg,34990,1,5,3.7,15,2,Split,Yes,No,Copper,649,21,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB, and 10 Years on Compressor with Gas Charging"
+Samsung,44290,1.5,5,4.1,69,11,Split,Yes,No,Copper,743,45,Not Available,Not Available,No,"1 Year Warranty on Product, 5 Years on Condenser and 10 Years on Compressor"
+Marq By Flipkart,35500,1.5,3,4.3,325,37,Split,Yes,No,Copper,1118,38,R32,Not Available,Yes,1 Year Warranty on Product and 5 Years on Compressor
+Lg,35999,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1840,31,Not Available,Not Available,Not Available,1 Year on Product & 10 Years on Compressor
+Blue Star,43990,1.5,5,4.2,845,193,Split,No,No,Aluminium,1500,46,Not Available,Not Available,No,1 Year on Product & 4 Years for the Compressor
+Lg,45490,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,521,23,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Hitachi,28499,1.5,3,4.2,"3,609",408,Window,No,No,Not Available,1650,Not Available,Not Available,Not Available,No,1 Year for Product & 4 Years for Compressor
+Haier,31490,1,3,4,115,10,Split,No,No,Copper,972,40,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Voltas,42998,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1455,45,R32,Not Available,No,1 Year on Product and 10 Years on Compressor from Voltas
+Panasonic,50290,1.5,5,4.2,151,29,Split,Yes,No,Copper,1440,47,R32,Not Available,Yes,"1 Year Comprehensive Warranty, 4 Years on PCB, 9 Years on Compressor and 4 Years on ODU Casing"
+Whirlpool,42000,1.5,4,4.3,17,2,Split,Yes,No,Copper,2100,37,Not Available,Not Available,No,"1 Year on Comprehensive Unit , 10 years on compressor & 1 year on condensor"
+Onida,38490,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1570,40,R32,Not Available,No,1 Year on Product and 5 Year on Compressor from Onida
+Croma,29390,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1045,52,R32,Not Available,No,"1 Year on Product, 5 Years on Condenser and 10 Years on Compressor"
+Panasonic,47000,1.5,3,4.5,152,22,Split,Yes,No,Copper,1350,48,R32,50,No,1 Year Comprehensive and 10 Years on Compressor Warranty from Panasonic
+Daikin,44989,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1670,32,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Voltas,39990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1590,52,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Voltas,57490,2,5,4.4,38,1,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Lg,39889,1.5,5,4.4,25,6,Split,Yes,No,Copper,1050,26,R32,52,Yes,"1 Year Warranty on Product, 5 Years on PCB, and 10 Years on Compressor with Gas Charging"
+Lloyd,46985,1,3,4.4,74,10,Split,Yes,No,Copper,1050,43,R32,Not Available,Yes,Not Available
+Voltas,39990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1590,52,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Voltas,57490,2,3,4.4,38,1,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Blue Star,52999,1.5,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1250,47,R32,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor
+Carrier,32999,1.5,5,4.2,"5,815",643,Split,No,No,Copper,1475,44,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Lloyd,31499,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,711,36,R32,Not Available,No,"1 Year Warranty on Product, and 10 Years on Compressor"
+Daikin,41999,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1278,32,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor
+Lloyd,38990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,972,35,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor
+Daikin,45499,1.5,5,4.2,44,3,Split,Yes,No,Copper,1415,35,R32,Not Available,Yes,1 Year on Product and 5 Years on Compressor from Daikin
+Daikin,48999,1.8,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1202,47,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years on Compresser
+Hitachi,27999,1.5,5,4,"1,960",209,Window,No,No,Copper,1277,50,R32,52,No,"1 Year Warranty on Product, 1 Year on PCB Controller and 5 Years on Compressor"
+Panasonic,38828,1.5,5,Not Available,Not Available,Not Available,Split,No,No,Copper,1122,46,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years on Compresser
+Daikin,64799,1.8,5,4.2,485,76,Split,Yes,No,Copper,1665,30,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Daikin
+Whirlpool,33899,1.5,5,4.8,4,0,Split,Yes,No,Copper,1087,37,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Whirlpool
+Lloyd .,41990,1.5,5,4.3,23,1,Split,Yes,No,Copper,Not Available,Not Available,Not Available,52,No,1 Year Comrehensive Warranty and 10 Years Warranty on Compressor from Lloyd
+Hitachi,37949,1,3,5,3,1,Split,Yes,No,Copper,965,35,R410a,Not Available,No,"1 Year on Product, 1 Year on Condenser and 5 Years on Compressor From Hitachi"
+Ifb,44990,1.5,5,4.4,545,86,Split,Yes,No,Copper,853,38,R32,58,No,Not Available
+Blue Star,39990,1,5,4.2,239,29,Split,Yes,No,Copper,600,62,R32,52,No,1 Year Warranty on Product and 10 Years on Inverter Compressor
+O General,72940,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,2140,32,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years On Compressor
+Blue Star,38890,1.5,5,Not Available,Not Available,Not Available,Split,No,No,Copper,1456,41,R32,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor
+Blue Star,45990,1.5,3,4.2,"4,750",592,Split,Yes,No,Copper,836,63,R32,52,No,1 Year Warranty on Product and 10 Years on Inverter Compressor
+Blue Star,48500,1.5,3,4.2,16,2,Split,Yes,No,Copper,1400,45,Not Available,52,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Godrej,32490,1.5,3,4.2,223,23,Split,No,No,Copper,1137,46,R32,50,No,1 Year on Product and Condenser Coil Warranty and 5 Years on Compressor Warranty from Godrej
+Daikin,56889,1.8,5,4.3,53,5,Split,Yes,No,Copper,1665,38,R32,Not Available,No,1 Year on Product and 10 Years on Compressor From Daikin
+Samsung,37490,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1560,26,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Lg,37490,1.5,3,4,41,4,Split,Yes,No,Copper,1440,34,R32,Not Available,No,1 Year on Product and 10 Years on Compressor
+Daikin,58990,2.2,4,3.6,18,1,Split,Yes,No,Copper,2410,39,R32,Not Available,No,1 Year on Product and 10 Years on Compressor From Daikin
+Lg,50479,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,818,31,R32,52,Yes,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Carrier,35000,1.5,3,4.3,746,113,Split,No,No,Copper,1458,38,R32,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor from Carrier
+Blue Star,39590,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1456,34,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor
+Panasonic,46411,1.6,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1037,47,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years on Compresser
+Lloyd,53990,2,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1757,59,Not Available,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from Llyod"
+Voltas,38490,1.5,3,3.8,6,0,Split,Yes,No,Copper,1750,47,R32,Not Available,No,1 Year on Product and 10 Years on Compressor From Voltas
+Whirlpool,36000,1.5,3,4.1,176,25,Split,Yes,No,Copper,1752,42,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from Whirlpool"
+Panasonic,32500,1,3,Not Available,Not Available,Not Available,Split,No,No,Copper,915,38,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5Years on Compressor
+Lloyd,44399,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Panasonic,44999,1,3,4.2,151,29,Split,Yes,No,Copper,1000,43,R32,Not Available,Yes,"1 Year Comprehensive Warranty, 4 Years on PCB, 9 Years on Compressor and 4 Years on ODU Casing"
+Lloyd,36490,1.5,3,4.2,159,13,Split,No,No,Copper,1420,42,R32,Not Available,No,1 Year Comprehensive Warranty and 5 Years Warranty on Compressor
+Lloyd,36890,1.5,3,4.2,333,34,Split,Yes,No,Copper,1720,42,R32,Not Available,No,Not Available
+Samsung,34500,1.5,3,4.7,3,1,Split,Yes,No,Copper,1700,53,R32,Not Available,No,1 Year on Product and 10 Years on Compressor From Samsung
+Godrej,33599,1.5,5,4.3,18,3,Split,No,No,Copper,1149,52,R32,Not Available,No,1 Year Machine Warranty and 5 Years Warranty Only on Compressor from Godrej
+Daikin,46280,1.8,3,3,4,0,Split,No,No,Copper,1753,39,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor
+Godrej,33999,1.5,3,4.3,428,59,Split,Yes,No,Copper,1128,32,R32,50,No,1 Year On Product and Condenser Coil Warranty and 10 Years On Compressor from Godrej
+Daikin,30790,1,3,4,61,10,Split,Yes,No,Copper,1110,51,Not Available,Not Available,No,1 Year Warranty on Product
+Samsung,38490,1,3,4.4,373,67,Split,Yes,No,Alloy,1060,37,R410A,Not Available,No,"1 Year on Product, 10 Years Compressor and 5 Years Condensor Warranty"
+Croma,29990,1,3,Not Available,Not Available,Not Available,Window,No,No,Copper,1015,58,R32,Not Available,No,1 Year Comprehensive Warranty and 5 Years on Compressor
+Blue Star,36900,1.5,3,4,9,0,Split,Yes,No,Copper,1663,46,R32,52,No,1 Year on Product and 10 Years Warranty on Compressor From Blue Star
+Ifb,48900,2,3,4.4,327,44,Split,Yes,No,Copper,1233,38,R32,58,No,Not Available
+Ifb,48900,2,5,4.4,327,44,Split,Yes,No,Copper,1233,38,R32,58,No,Not Available
+Ifb,32990,1,4,4.3,"1,893",291,Split,Yes,No,Copper,732,30,R32,58,No,Not Available
+Lloyd,30990,1.5,5,4.2,217,26,Split,No,No,Copper,1450,51,R32,Not Available,No,Not Available
+Voltas,46249,1.5,3,3.9,12,0,Split,Yes,No,Copper,1712,46,R32,Not Available,No,1 Year Warranty on Product and Condenser and 5 Years on Compressor
+Lloyd,32500,1.5,3,4,700,67,Split,No,No,Copper,1119,42,R32,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor From Lloyd
+Lloyd,35990,1.5,5,4.2,"1,002",104,Window,No,No,Copper,1141,53,R32,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor From Lloyd
+Samsung,44192,1.5,3,4,5,0,Split,Yes,No,Copper,1490,35,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+O General,60990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1580,52,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor From OGeneral
+Lg,37500,1,3,4.4,"3,898",638,Split,Yes,No,Copper,1080,21,R32,Not Available,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Lloyd,29899,1.5,4,Not Available,Not Available,Not Available,Window,No,No,Copper,2170,56,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor From Lloyd
+Lg,46990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,818,31,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Lloyd,34225,1,3,3.3,7,1,Split,Yes,No,Copper,778,32,R32,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor From Lloyd
+Blue Star,28399,1.5,5,4.4,572,73,Window,No,No,Copper,1730,59,R22,50,No,5 Years on Compressor from Blue Star
+Blue Star,37500,1.5,4,5,3,0,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Daikin,50990,1.8,3,4.8,5,2,Split,Yes,No,Copper,1950,32,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Godrej,32990,2,5,4.6,9,0,Window,No,No,Copper,1625,53,R32,50,No,"1 Year on Product, 1 Year on Condenser and 5 Years on Compressor"
+Carrier,38390,1,3,4.3,"1,984",367,Split,Yes,No,Copper,1150,40,R410a,Not Available,No,1 Year on Complete Unit and 10 Years on Compressor
+Daikin,38999,1,3,4.3,10,2,Split,Yes,No,Copper,940,27,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Panasonic,56463,2.2,4,2.3,3,1,Split,Yes,No,Copper,1430,50,Not Available,Not Available,No,"1 Year on Product, 5 Year on PCB and 5 Years on Compressor from Panasonic"
+Carrier,36990,1.5,4,4.3,"2,707",405,Split,Yes,No,Copper,1700,44,R410a,Not Available,No,1 Year on Complete Unit and 10 Years on Compressor
+Blue Star,48000,1.5,3,4.4,232,40,Split,Yes,No,Copper,1450,46,R,Not Available,No,"1 Year on Product and Condenser, 10 Years on Compressor from Blue Star"
+Nokia,39990,2,3,4.1,494,96,Split,Yes,Yes,Copper,1215,38,R32,Not Available,Yes,1 Year on Product and 5 Years on Compressor
+Croma,26990,1,5,Not Available,Not Available,Not Available,Window,No,No,Copper,1100,56,R32,Not Available,No,1 Year Comprehensive Warranty and 5 Years on Compressor
+Voltas,36890,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1520,45,R32,52,Yes,1 Year Warranty on Product and 5 Years on Compressor
+Voltas,36890,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1520,45,R32,52,Yes,1 Year Warranty on Product and 5 Years on Compressor
+Motorola,34490,1.5,5,4.4,573,96,Split,Yes,No,Copper,1101,30,R32,60,No,Not Available
+Samsung,41000,1,3,4.8,30,7,Split,Yes,No,Alloy,1180,48,Not Available,Not Available,No,"1 Year on Product, 10 Years Compressor and 5 Years Condensor Warranty"
+Voltas,38490,1,3,3.7,13,1,Split,Yes,No,Copper,925,46,Not Available,Not Available,No,1 Year on Product and Condenser and 5 Years on Compressor
+Samsung,39500,1.5,3,4.2,329,43,Split,Yes,No,Alloy,1780,52,Not Available,Not Available,No,"1 Year on Product, 10 Years Compressor and 5 Years Condensor Warranty"
+Croma,31390,1.2,3,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1500,44,R32,Not Available,No,1 Year on Product and 10 Years on Compressor
+Panasonic,42683,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,915,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Panasonic,33490,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,915,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Panasonic,47500,2,3,3.6,10,0,Split,No,No,Copper,1710,50,R22,46,No,1 Year on the Product and 4 Years on the Compressor
+Lloyd,27250,1.5,4,Not Available,Not Available,Not Available,Window,No,No,Copper,1621,52,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Voltas,36590,1.5,5,4.2,"13,218","1,282",Split,No,No,Copper,1458,47,R22,Not Available,No,1 Year on Product and 5 Years on Compressor
+Blue Star,53990,2,4,4.2,"1,087",145,Split,Yes,No,Copper,2150,43,R32,52,No,1 Year on Product and 10 Years Warranty on Compressor From Blue Star
+Haier,29190,1,3,4.6,5,0,Split,Yes,No,Copper,1200,37,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor From Haier
+Samsung,56500,1.5,4,4.8,30,7,Split,Yes,No,Alloy,1860,52,R410A,Not Available,No,"1 Year on Product, 10 Years Compressor and 5 Years Condensor Warranty"
+Samsung,37579,1.5,3,3.6,22,4,Split,Yes,No,Copper,1490,36,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+Samsung,43500,1,5,4.3,15,3,Split,Yes,No,Alloy,930,48,Not Available,Not Available,No,"1 Year on Product, 10 Years Compressor and 5 Years Condensor Warranty"
+Daikin,39900,1.5,3,4.2,"2,453",233,Split,Yes,No,Copper,1680,35,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Daikin
+Daikin,49200,1.5,5,4.4,22,2,Split,Yes,No,Copper,999,38,R32,Not Available,No,1 Year on Product and Condenser and 5 Years on Compressor
+Panasonic,41403,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1660,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Blue Star,33990,1,5,4.2,697,93,Split,No,No,Copper,739,62,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Lg,43949,1.5,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,5800,31,R32,Not Available,No,"1 Year on Product, 5 Years on PCB and 10 Years on Compressor from LG"
+Panasonic,36500,1,5,4.4,45,4,Split,Yes,No,Copper,1000,45,R32,50,No,1 Year Comprehensive and 10 Years on Compressor Warranty from Panasonic
+O General,55499,1.5,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1580,32,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years On Compressor
+Lg,44990,1.5,3,4.8,5,1,Split,Yes,No,Copper,818,31,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor from LG
+Blue Star,43999,1.5,3,4.4,918,115,Split,Yes,No,Copper,3620,58,R32,52,No,1 Year on Product and 10 Years on Compressor From Blue Star
+Daikin,38000,1,3,4.2,"2,453",233,Split,Yes,No,Copper,1110,26,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Daikin
+Daikin,58190,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1095,30,R32,56,No,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Samsung,33999,1.5,3,4.2,"8,874",856,Split,Yes,No,Copper,1490,44,Not Available,Not Available,No,"1 Year Comprehensive Warranty on Product, 1 Years on PCB, 1 Years on Condenser, 1 Years Free Gas Recharge and 10 Years on Compressor"
+Voltas,35390,1.5,3,4.2,13,1,Split,Yes,No,Copper,1036,45,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+Hitachi,36999,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1012,36,R32,Not Available,No,"1 Year on Product, 5 Years on Controller and 10 Years on Compressor"
+Whirlpool,33800,1.5,5,4.1,"2,125",308,Split,Yes,Yes,Copper,1029,45,R32,Not Available,No,"1 Year Warranty on Product, 1 Year on Condenser and 10 Years on Compressor from Whirlpool"
+Panasonic,50990,1.5,5,4.2,151,29,Split,Yes,No,Copper,848,47,R32,Not Available,Yes,"1 Year Comprehensive Warranty on Product, 4 Years on PCB and ODU Casing and 9 Years On Compressor"
+Lg,49490,2,5,4.1,140,7,Split,Yes,No,Copper,2090,34,R32,Not Available,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Sansui,32490,1.5,3,4.2,"1,270",202,Split,Yes,No,Copper,1585,44,R32,Not Available,No,1 Year on Product and 5 Years on Compressor
+Livpure,42990,1.5,4,4.2,"2,583",579,Split,Yes,No,Copper,1360,48,R32,Not Available,Yes,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Panasonic,44486,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,848,48,Not Available,Not Available,Yes,"1 Year on Product, 5 Year on PCB and 5 Years on Compressor from Panasonic"
+Lg,39990,1,3,4.5,15,2,Split,Yes,No,Copper,1050,21,R32,Not Available,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging from LG"
+Daikin,45700,1.5,4,4.2,"2,453",233,Split,Yes,No,Copper,1415,35,R32,Not Available,No,1 Year on Product and 10 Years on Compressor From Daikin
+Godrej,33999,1.5,3,4.1,108,19,Split,Yes,No,Copper,1700,49,R32,Not Available,No,"1 Year Condenser Coil Warranty, 10 Years Compressor Warranty"
+Samsung,37990,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,24,Yes,Not Available
+Blue Star,34460,1.5,3,4.1,19,6,Window,No,No,Copper,1510,55,R32,17,No,1 Year Warranty on Product and 5 Years on Compressor
+Samsung,31490,1,4,4.1,"2,012",302,Split,Yes,No,Copper,1060,21,Not Available,52,No,"10 Years on Compressor, 5 Years on PCB and 5 Years on Condenser."
+Whirlpool,35990,1.5,5,4.5,11,2,Split,Yes,No,Copper,1890,37,R32,55,Yes,1 Year on Product and Condenser and 10 Years on Compressor
+Lg,39990,1,3,4.6,16,3,Split,Yes,No,Copper,604,21,R32,Not Available,Yes,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from LG"
+Voltas,31990,1,4,4.3,83,7,Split,Yes,No,Copper,1130,41,R32,52,No,1 Year Comprehensive and 4 Years Compressor Warranty from Voltas
+Lloyd,29901,1.5,3,4.2,212,30,Window,No,No,Not Available,1676,52,R22,Not Available,Not Available,1 Year on Product & 5 Years on Compressor
+Godrej,46999,2,3,3.8,6,0,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,50,No,Not Available
+Voltas,37499,1.5,3,4.2,"3,720",493,Split,Yes,No,Copper,1520,46,R32,Not Available,No,1 Year Manufacturer Warranty
+Voltas,34990,1.5,5,4.2,64,5,Window,No,No,Not Available,1495,54,R22,Not Available,No,1 Year on Product and 4 Years on Compressor
+Godrej,46999,2,3,3.8,6,0,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,50,No,Not Available
+Voltas,37499,1.5,3,4.2,"3,720",493,Split,Yes,No,Copper,1520,46,R32,Not Available,No,1 Year Manufacturer Warranty
+Voltas,28990,1,3,4.4,5,0,Split,No,No,Copper,980,45,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Lumx,28990,1.5,5,4.4,32,2,Split,No,No,Copper,1440,43,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 5 Years on Compressor from Lumx"
+Lg,34000,1,3,4.4,77,13,Split,Yes,No,Copper,Not Available,Not Available,R410A,Not Available,No,10 Years on Compressor.
+Samsung,54670,1.5,5,4,13,1,Split,Yes,No,Copper,743,45,Not Available,Not Available,No,"1 Year Warranty on Product, 5 Years on Condenser and 10 Years on Compressor"
+Haier,30990,1,3,4.6,5,0,Split,Yes,No,Copper,1200,37,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor From Haier
+O General,52990,1.5,5,2,4,0,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Lg,35990,1,5,4.3,237,36,Split,Yes,No,Copper,1080,21,R32,Not Available,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Blue Star,57999,2,4,3.8,13,3,Split,Yes,No,Copper,1770,49,Not Available,52,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Hitachi,52399,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,2420,59,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor from Hitachi
+Panasonic,47518,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1660,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Whirlpool,47889,1,4,4.3,23,4,Split,Yes,No,Copper,1500,30,Not Available,Not Available,No,"1 Year on Comprehensive Unit , 10 years on compressor & 1 year on condensor"
+Panasonic,48990,1,3,4.4,45,4,Split,Yes,No,Copper,880,45,R32,50,No,1 Year Comprehensive and 10 Years on Compressor Warranty from Panasonic
+Whirlpool,36499,1.5,3,4.1,137,14,Split,Yes,No,Copper,920,35,Not Available,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from Whirlpool"
+Lg,40769,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,5500,31,R32,Not Available,No,"1 Year on Product, 5 Year on PCB, 10 Year on Compressor"
+Voltas,26900,1,5,3.9,12,3,Window,No,No,Copper,1050,56,R32,Not Available,No,1 Year Comprehensive Warranty on Product and 5 Years Warranty on Compressor from Voltas
+Samsung,31990,1.5,4,4.2,"24,029","2,445",Split,Yes,No,Copper,1748,52,Not Available,Not Available,No,1 Year comprehensive and 10 years on Compressor
+Panasonic,40989,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1122,38,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor from Panasonic
+Daikin,43500,1.5,5,4.2,"2,453",233,Split,Yes,No,Copper,1752,35,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Daikin
+Lg,35999,1,5,4.5,22,6,Split,Yes,No,Copper,680,21,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from LG"
+Carrier,29545,1,3,Not Available,Not Available,Not Available,Window,No,No,Copper,1120,47,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Daikin,41990,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Whirlpool,33500,1,5,4.5,59,11,Split,No,No,Aluminium,830,Not Available,Not Available,Not Available,No,"1 Year on Unit, 5 Years on Condensor & 10 Years on Compressor"
+Panasonic,36990,1.5,3,4.3,"9,607","1,169",Split,Yes,No,Copper,1056,43,R32,Not Available,Yes,"1 Year Product Warranty, 10 Years Compressor Warranty, 5 Years PCB  Warranty"
+Panasonic,47748,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1435,40,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Voltas,37900,1.5,5,3.9,12,2,Window,No,No,Copper,1350,42,Not Available,Not Available,No,1 Year on Product and 7 Years on Compressor from Voltas
+Carrier,39490,2,3,Not Available,Not Available,Not Available,Window,No,No,Copper,1942,57,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Panasonic,42129,1.5,5,4.8,5,1,Split,Yes,No,Copper,840,46,R32,Not Available,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor"
+Samsung,43189,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1240,35,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+Sansui,28990,1.5,3,4.2,"1,270",202,Split,Yes,No,Copper,1352,38,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Sansui
+Samsung,36259,1.5,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1700,35,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+Carrier,32999,1.5,3,4.2,767,76,Window,No,No,Copper,1550,58,R32,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor from Carrier
+Whirlpool,30990,1,5,4,"2,918",336,Split,Yes,Yes,Copper,1080,45,R32,35,No,Not Available
+Panasonic,41990,1,3,4.2,151,29,Split,Yes,No,Copper,576,43,R32,Not Available,Yes,"1 Year Comprehensive Warranty on Product, 4 Years on PCB and ODU Casing and 9 Years On Compressor"
+Lg,45999,1.5,5,4.4,133,9,Split,Yes,No,Copper,835,31,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor From LG
+Blue Star,39900,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1600,43,R32,Not Available,No,1 Year on Product and 10 Years on Compressor
+Voltas,34990,1.5,3,4.2,572,38,Split,Yes,No,Copper,1540,46,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Blue Star,53999,2,3,4.5,11,0,Split,No,No,Copper,1760,39,R32,52,No,1 Year on Product and 5 Years on Compressor from Blue Star
+Godrej,39999,1.5,3,4.4,209,16,Split,Yes,No,Copper,865,34,R32,50,No,1 Year on Product and Condenser Coil Warranty and 10 Years on Compressor from Godrej
+Haier,29962,1.5,5,4.1,156,18,Window,No,No,Copper,1495,50,Not Available,Not Available,No,1 Year on Product and Condenser and 10 Years on Compressor From Haier
+Hitachi,34999,1,3,3.9,"2,691",279,Split,Yes,No,Copper,585,36,R32,52,No,1 Year Warranty on Complete Product and 10 Years on Compressor
+Hitachi,33990,1.5,5,4.1,263,20,Split,Yes,No,Copper,1730,36,R410A,Not Available,No,Not Available
+Lloyd,39400,1.5,4,3.3,7,1,Split,Yes,No,Copper,1077,40,R32,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor From Lloyd
+Daikin,52498,1.5,4,4.3,458,43,Split,Yes,No,Copper,1665,54,Not Available,Not Available,No,1 Year Warranty on Product
+Haier,35940,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1451,41,R32,Not Available,No,5 Years Comprehensive Warranty (Including Gas) and 12 Years Compressor Warranty from Haier
+Hitachi,27490,1,3,4.2,"2,101",254,Window,No,No,Copper,789,50,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Panasonic,39740,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1660,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Lg,47490,1.5,3,4.2,49,10,Split,Yes,No,Copper,1420,28,R410A,Not Available,No,1 Year Comprehensive and 9 Years on Compressor
+Daikin,50990,1.8,3,4.2,"2,453",233,Split,Yes,No,Copper,1890,38,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Daikin
+Haier,35499,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1630,59,Not Available,Not Available,No,1 Year on Product and 12 Years on Compressor from Haier
+Blue Star,32700,1.5,5,4.2,17,2,Window,No,No,Copper,1167,56,Not Available,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor
+Blue Star,34490,1,4,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Lloyd,36999,1.5,3,4,7,0,Window,Yes,No,Copper,1149,53,R32,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor From Lloyd
+Carrier,50999,2,3,4.2,663,69,Split,Yes,No,Copper,1985,39,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor from Carrier
+O General,50499,1.5,3,4,35,4,Split,No,No,Copper,Not Available,Not Available,R410A,Not Available,No,1 Year Manufacturer Warranty
+Toshiba,59490,1.8,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1850,40,R32,Not Available,No,"1 Year on product, 5 year on Compressor"
+Daikin,46890,1.5,5,4.1,211,17,Split,Yes,No,Copper,1650,45,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor From Daikin
+Samsung,38569,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1490,45,R32,Not Available,No,1 Year Standard Warranty on Product and 10 Years on Compressor
+Hitachi,49500,2,3,4.2,"2,029",320,Split,Yes,No,Copper,2350,37,R410A,Not Available,No,1 Year on Complete Unit and 5 Years on Compressor
+Carrier,33950,1.5,5,4,2,1,Window,No,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Carrier,37500,1.5,5,4.2,663,69,Split,Yes,No,Copper,1750,37,R32,52,No,1 Year Domestic Warranty on Product and 10 Years on Compressor
+Voltas,38990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1590,52,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Lg,36990,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,3283,20,R32,Not Available,No,"1 Year on Product, 5 Year on PCB, 10 Year on Compressor"
+Daikin,36740,1,5,3.7,23,1,Split,Yes,No,Copper,999,26,R32,Not Available,No,1 Year on Product and 10 Years on Compressor From Daikin
+Voltas,32000,1,5,Not Available,Not Available,Not Available,Split,No,No,Copper,1000,38,R32,Not Available,No,1 Year on Product and Condenser and 5 Years on Compressor from Voltas
+Panasonic,75000,1.5,4,Not Available,Not Available,Not Available,Split,No,No,Copper,1430,48,Not Available,46,No,1 Year on Product and 4 Years on Compressor
+Carrier,47686,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1380,37,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Croma,32990,1,3,4.3,3,0,Split,Yes,No,Copper,880,52,R32,Not Available,No,"1 Year on Product, 5 Years on Condenser and 10 Years on Compressor"
+Lloyd,35399,1.5,3,4.3,35,1,Split,No,No,Copper,1114,57,Not Available,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor from LLOYD
+Croma,32990,1.6,5,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1680,49,R32,Not Available,No,1 Year on Product and 10 Years on Compressor
+Daikin,45990,1.5,5,4.2,20,2,Split,Yes,No,Copper,756,47,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years on Compresser
+Lg,37990,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,3850,21,R32,Not Available,No,"1 Year on Product, 5 Year on PCB, 10 Year on Compressor"
+Panasonic,38500,1.5,3,5,3,0,Split,No,No,Not Available,Not Available,Not Available,Not Available,Not Available,Yes,Not Available
+Croma,27490,1.5,3,4.4,46,4,Window,No,No,Copper,1252,54,R32,Not Available,No,1 Year on Machine 5 Years on Compressor From Croma
+Carrier,41990,1.5,3,4.3,103,9,Split,Yes,No,Copper,1750,37,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor from Carrier
+Lg,43000,1.5,3,4.3,237,36,Split,Yes,No,Copper,1740,26,R32,Not Available,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Blue Star,44990,1.5,5,4.3,12,1,Split,Yes,No,Copper,1375,Not Available,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Lg,43170,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,521,23,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Lg,49499,1.5,3,4.3,247,43,Split,Yes,No,Copper,1440,31,R32,Not Available,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Marq By Flipkart,26990,1.5,3,4.3,"19,450","2,746",Split,Yes,No,Copper,1039,31,R32,48,No,1 Year on Product and 5 Years on Compressor
+Godrej,33399,1.5,3,4.4,21,0,Split,Yes,No,Copper,1570,62,R32,Not Available,No,1 Year Comprehensive and 10 Years Warranty On Inverter Compressor from Godrej
+O General,63499,1.8,3,4.3,28,5,Split,No,No,Copper,Not Available,Not Available,R410A,Not Available,No,1 Year Manufacturer Warranty
+Voltas,35499,1.5,3,4.2,"3,616",313,Split,Yes,No,Copper,1590,52,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Hitachi,48450,1.5,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,897,36,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor
+Blue Star,32900,1.5,3,4.3,869,105,Window,No,No,Copper,1530,58,R22,50,No,1 Year on Product and 5 Years on Compressor from Blue Star
+Lg,37990,1.5,5,4.3,"9,464","1,217",Split,Yes,Yes,Copper,1740,26,R32,52,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Lg,44000,1.5,3,4.9,23,5,Split,Yes,No,Copper,1740,26,R32,Not Available,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Lloyd,48999,2,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1386,43,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor
+Haier,31890,1.5,3,4.4,93,9,Split,No,No,Copper,1451,40,R32,Not Available,No,"1 Year on Product (Comprehensive), 6 Years on Compressor."
+Lloyd,28999,1.5,4,4.3,224,21,Window,No,No,Copper,1700,53,R32,Not Available,No,Not Available
+Daikin,35661,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1145,27,R32,54,No,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Lloyd,38990,1.5,5,Not Available,Not Available,Not Available,Split,No,No,Copper,1440,42,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor
+Godrej,37345,1.5,3,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,840,43,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Lg,34490,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1050,21,R32,Not Available,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging from LG"
+Lg,34490,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1050,21,R32,Not Available,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging from LG"
+Vg,34990,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1451,39,R22,Not Available,No,1 Year Warranty on Product and 5 Years on Compressor
+Haier,37999,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,997,41,Not Available,Not Available,No,1 Year Warranty on Product and 12 Years on Compressor from Haier
+Hitachi,35490,1.5,5,2.6,7,1,Split,No,No,Copper,1475,94,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor from Hitachi
+Croma,29990,1.5,3,4.3,16,1,Window,No,No,Copper,1252,53,R32,Not Available,No,1 Year on Machine 5 Years on Compressor From Croma
+Livpure,38990,1,5,4.2,"2,583",579,Split,Yes,No,Copper,1080,45,R32,50,Yes,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Daikin,43499,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,940,27,R32,54,Yes,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Hitachi,36490,1.5,3,3.9,"2,691",279,Split,Yes,No,Copper,1098,36,R32,52,No,1 Year Warranty on Complete Product and 10 Years on Compressor
+Lumx,28500,1.5,3,3.8,20,0,Split,Yes,No,Copper,1600,43,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 5 Years on Compressor from Lumx"
+Hitachi,35999,1.5,4,3.8,4,0,Split,No,No,Not Available,Not Available,Not Available,Not Available,25,No,Not Available
+Daikin,54999,1.5,5,3.9,44,10,Split,Yes,No,Copper,1325,32,R32,54,Yes,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Hisense,30999,1,3,4.2,"1,548",269,Split,Yes,Yes,Copper,960,44,R32,48,No,5 Years Standard Warranty on Product and 10 Years on Compressor
+Lloyd,36879,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1642,35,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Lg,40250,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1465,31,R32,Not Available,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor"
+Micromax,27499,1,3,4.2,"1,240",185,Split,No,No,Copper,723,40,R410A,Not Available,No,1 Year on Complete Unit and 5 Years on Compressor from Micromax
+Voltas,29898,1,3,4.1,80,9,Split,Yes,No,Copper,1130,39,R32,52,No,"1 Year on Product, 1 Year on Condenser and 5 Years on Compressor From Voltas"
+Samsung,38500,1.5,5,3.7,27,1,Split,Yes,No,Copper,1044,45,Not Available,Not Available,No,"1 Year Warranty on Product, 5 Years on Condenser and 10 Years on Compressor"
+Panasonic,37990,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,962,47,R32,Not Available,Yes,1 Year Warranty on Product and 10 Years on Compressor
+Onida,34490,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,940,37,R32,Not Available,No,1 Year on Product and 5 Year on Compressor from Onida
+Daikin,54399,1.8,5,4,28,4,Split,Yes,No,Copper,2000,56,Not Available,Not Available,No,1 Year Warranty on Product
+Hitachi,39020,1.5,3,3.4,5,0,Window,No,No,Copper,1122,45,R32,52,No,Not Available
+Panasonic,35999,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,915,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Daikin,41000,1.5,3,4.3,522,48,Split,No,No,Copper,Not Available,51,R32,Not Available,No,1 Year on Total Unit and 5 Years on Compressor
+Panasonic,36990,1.5,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1660,38,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5Years on Compressor
+Panasonic,35999,1,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,915,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Blue Star,37999,1.5,4,3.9,25,3,Window,Yes,No,Copper,5190,52,R32,50,No,1 Year on Product and 5 Years on Compressor from Blue Star
+Panasonic,41500,1.5,5,4.4,56,9,Split,Yes,No,Copper,1630,48,R32,50,No,1 Year Comprehensive and 10 Years on Compressor Warranty from Panasonic
+Whirlpool,39990,1.5,4,4.8,8,1,Split,Yes,No,Copper,1365,43,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+Hitachi,36490,1.5,3,3.9,"2,691",279,Split,Yes,No,Copper,1730,36,R410A,Not Available,No,Not Available
+Daikin,51200,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Lg,45999,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,5800,31,R32,Not Available,No,"1 Year on Product, 5 Year on PCB, 10 Year on Compressor"
+O General,43000,1.5,3,3.2,5,1,Window,No,No,Copper,1410,42,Not Available,Not Available,No,1 Year Warranty and 1 Year Compressor Warranty on OGeneral
+Samsung,39490,1,3,4.4,32,2,Split,Yes,No,Aluminium,1060,48,Not Available,Not Available,No,5 Years on Condenser and 10 Years on Compressor
+Panasonic,58749,1.5,2,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1845,42,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Onida,42999,1.6,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1560,41,R32,Not Available,No,1 Year on Product and 5 Year on Compressor from Onida
+Daikin,69014,1.8,3,3.4,5,1,Split,Yes,No,Copper,1665,49,Not Available,Not Available,No,1 Year on Product and 5 Years on Compressor
+Daikin,39940,1.5,3,3.7,15,2,Split,Yes,No,Copper,1670,32,R32,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Hitachi,24999,1,3,4.2,"3,609",408,Window,No,No,Not Available,1340,50,R22,Not Available,No,1 Year on Product and 5 Years Warranty on Compressor
+Carrier,49990,2,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1665,40,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Panasonic,37963,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1600,40,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Croma,39990,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1291,55,R32,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor from Croma
+Blue Star,35900,1,5,4.3,72,13,Split,Yes,No,Copper,669,62,R32,52,No,1 Year Warranty on Product and 10 Years on Inverter Compressor
+Daikin,47692,1.8,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1855,45,R32,50,No,1 Year Warranty on Product and 5 Years on Compressor
+Carrier,37679,1.5,4,Not Available,Not Available,Not Available,Split,No,No,Copper,1118,38,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 5 Years on Compressor
+Midea,28999,1,3,3.4,25,1,Split,No,No,Copper,980,32,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Panasonic,43000,1.5,3,4.5,152,22,Split,Yes,No,Copper,1650,48,R32,50,No,1 Year Comprehensive and 10 Years on Compressor Warranty from Panasonic
+Lg,39990,1.5,5,4.7,18,1,Split,Yes,No,Copper,1050,26,R32,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor (With Gas Charging)
+Onida,31499,1.5,3,4.5,35,3,Split,Yes,No,Copper,1820,51,Not Available,58,No,1 Year Warranty on Product and 5 Years on Compressor from Onida
+Blue Star,37989,1.5,3,4.2,"1,758",167,Split,No,No,Copper,1124,62,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Lg,52990,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,3650,21,R32,Not Available,No,1 Year on Product
+Croma,31990,1.5,4,Not Available,Not Available,Not Available,Window,No,No,Copper,1470,54,R32,Not Available,No,1 Year Comprehensive Warranty and 5 Years on Compressor
+Carrier,29590,1,3,4.3,8,1,Window,No,No,Not Available,1280,48,R22,Not Available,Not Available,1 Year on Complete Unit and 4 Years on Compressor
+Panasonic,48605,2,3,Not Available,Not Available,Not Available,Split,No,No,Copper,1143,47,Not Available,Not Available,Yes,"1 Year on Product, 5 Year on PCB and 5 Years on Compressor from Panasonic"
+Toshiba,34490,1,5,5,1,1,Split,Yes,No,Copper,1200,36,R32,Not Available,No,"1 Year on product, 5 year on Compressor"
+Godrej,28990,1,3,3.8,13,1,Split,Yes,No,Copper,780,32,R32,50,No,1 Year on Product and Condenser Coil Warranty and 10 Years on Compressor from Godrej
+Voltas,41190,1.5,3,3.4,20,5,Split,Yes,No,Copper,1450,46,R32,52,No,1 Year Warranty on Product and 10 Years on Compressor
+Toshiba,41500,1.5,3,3.8,21,4,Split,Yes,No,Copper,1660,39,R32,Not Available,No,"1 Year on product, 5 year on Compressor"
+Samsung,36999,1.5,3,4.6,13,1,Split,Yes,No,Copper,1748,52,Not Available,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from Samsung"
+Thomson,28799,1,3,4.2,392,89,Split,Yes,Yes,Copper,1095,44,R32,Not Available,No,1 Year on Product and 10 Years on Compressor Warranty
+Panasonic,38900,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1050,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Haier,31990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1089,29,R32,60,No,1 Year Warranty on Product and 12 Years on Compressor
+Carrier,29590,1,3,4.3,"1,386",178,Window,No,No,Copper,1120,54,R32,Not Available,No,1 Year on Complete Unit and 5 Years on Compressor
+Hitachi,54990,2,3,3.9,"2,691",279,Split,Yes,No,Copper,2070,37,R410A,Not Available,No,Not Available
+Hitachi,36900,1.2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1110,37,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Blue Star,19999,0.75,3,4.2,"2,977",378,Window,No,No,Copper,840,52,R410A,50,No,5 Years on Compressor from Blue Star
+Toshiba,35000,1.5,3,4.1,19,4,Split,No,No,Copper,1800,41,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Date of Purchase
+Blue Star,48990,1.7,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1790,43,R32,Not Available,No,1 Year on Product and 10 Years Warranty on Compressor
+Haier,44990,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,2100,40,R410A,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Lloyd,33999,1,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1110,32,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+Samsung,50400,1,5,Not Available,Not Available,Not Available,Split,No,No,Alloy,1060,21,Not Available,Not Available,No,"1 Year on Product, 10 Years on Digital Inverter Compressor, 1 Year Warranty on Copper Condenser Models and 2 Years on PCB Controller from Samsung"
+Hitachi,36990,1.5,3,3.8,19,1,Split,Yes,No,Copper,1475,94,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor from Hitachi
+Lg,34999,1,5,4.4,5,0,Split,Yes,No,Copper,1080,21,R32,Not Available,No,1 Year on Product and 10 Years on Compressor from LG
+Lg,34999,1,5,4.4,5,0,Split,Yes,No,Copper,1080,21,R32,Not Available,No,1 Year on Product and 10 Years on Compressor from LG
+Haier,50490,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,880,30,R32,Not Available,No,1 Year Warranty on Product and 12 Years on Compressor From Haier
+Daikin,42990,1.5,3,4,117,5,Split,Yes,No,Copper,1740,35,R32,Not Available,No,1 Year on Product and 10 Years on Compressor From Daikin
+Whirlpool,29999,1,3,4.1,"2,125",308,Split,Yes,Yes,Copper,669,45,R32,Not Available,No,"1 Year Warranty on Product, 1 Year on Condenser and 10 Years on Compressor from Whirlpool"
+Daikin,32990,1,3,4.1,154,21,Split,No,No,Copper,Not Available,51,R32,Not Available,No,1 Year on Total Unit and 5 Years on Compressor
+Haier,43490,1.6,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,880,32,R32,Not Available,No,1 Year Warranty on Product and 12 Years on Compressor
+Voltas,58990,2,3,4.1,24,0,Split,Yes,No,Copper,2000,45,R32,52,No,1 Year on Product and Condenser and 5 Years on Compressor from Voltas
+Daikin,34999,1,3,4.7,6,1,Split,Yes,No,Copper,1122,40,Not Available,Not Available,No,1 Year Comprehensive and 4 Years Compressor Warranty from Daikin
+Voltas,44990,1.5,3,4.3,"4,519",478,Split,Yes,No,Copper,1355,46,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Voltas
+Daikin,44990,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,940,27,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Lloyd,36880,1.5,5,4,3,0,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,52,No,Not Available
+Voltas,53999,2,3,4.1,34,1,Split,Yes,No,Copper,2000,45,R410A,52,No,1 Year on Product and Condenser and 5 Years on Compressor from Voltas
+Blue Star,33500,1,2,4.2,697,93,Split,No,No,Copper,739,62,R32,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Voltas,39500,1.5,3,3.9,20,3,Window,No,No,Copper,1800,58,R22,Not Available,No,1 Year on Product and Condenser and 5 Years on Compressor
+Samsung,42490,1.5,3,4.3,41,1,Split,Yes,No,Copper,743,45,Not Available,Not Available,No,"1 Year Warranty on Product, 5 Years on Condenser and 10 Years on Compressor"
+Hitachi,63200,2,4,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1282,37,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor
+Livpure,36990,1.5,3,4.2,"2,583",579,Split,Yes,No,Copper,1600,48,R32,Not Available,Yes,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Voltas,38990,1.5,3,4.3,"5,225",660,Split,Yes,No,Copper,1760,Not Available,R410A,Not Available,No,1 Year on Product and 4 Years on Compressor
+Daikin,50743,1.8,3,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Croma,33990,1,5,4,4,0,Split,Yes,Yes,Copper,955,44,R32,Not Available,No,1 Year on Product and 10 Years on Compressor
+Whirlpool,33800,1.5,5,3.8,52,9,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Daikin,75000,2.2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,999,50,R32,Not Available,No,1 Year on Product and Condenser and 5 Years on Compressor
+Lg,76990,2,4,4.3,"9,464","1,217",Split,Yes,Yes,Copper,1232,31,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from LG"
+Croma,45990,2,5,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1970,40,R32,Not Available,No,1 Year Comprehensive Warranty and 10 Years on Compressor
+Samsung,39990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,912,45,Not Available,Not Available,No,"1 Year Comprehensive Warranty on Product, 5 Years on Condenser and 10 Years on Compressor"
+Impex,52989,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1840,25,R32,Not Available,No,3 Years on Product and 5 Years on Compressor from Impex
+Samsung,36500,1,3,4.3,473,84,Split,Yes,No,Copper,1060,37,R410A,Not Available,No,Not Available
+Hitachi,59899,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1507,33,R410A,52,No,1 Year Warranty on Product and 5 Years on Compressor
+Croma,39990,1.5,5,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1375,40,R32,Not Available,No,1 Year Comprehensive Warranty and 10 Years on Compressor
+Croma,40990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1425,54,R32,Not Available,No,"1 Year on Product, 5 Years on Condenser and 10 Years on Compressor"
+Samsung,53900,1,5,Not Available,Not Available,Not Available,Split,No,No,Alloy,1060,21,Not Available,Not Available,No,"1 Year on Product, 10 Years on Digital Inverter Compressor, 1 Year Warranty on Copper Condenser Models and 2 Years on PCB Controller from Samsung"
+Voltas,38499,1.5,2,4.4,260,25,Split,Yes,No,Copper,1540,33,R32,52,No,1 Year Warranty on Product and 10 Years On Compressor
+Samsung,50000,1,5,Not Available,Not Available,Not Available,Split,No,No,Alloy,920,22,Not Available,Not Available,No,"1 Year on Product, 10 Years on Digital Inverter Compressor, 1 Year Warranty on Copper Condenser Models and 2 Years on PCB Controller from Samsung"
+Vizio Vision Beyond Imagination,33200,1.5,5,Not Available,Not Available,Not Available,Split,No,No,Not Available,Not Available,Not Available,Not Available,48,No,Not Available
+Voltas,29990,1,5,4.2,456,88,Split,Yes,No,Copper,1160,Not Available,R410A,52,No,1 Year on Product and 4 Years on Compressor
+Toshiba,44000,1.8,5,3.3,3,0,Split,No,No,Copper,2200,39,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Date of Purchase
+Blue Star,30650,1,3,Not Available,Not Available,Not Available,Split,No,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Samsung,39339,1.5,4,Not Available,Not Available,Not Available,Split,Yes,Yes,Copper,1560,35,R32,Not Available,Yes,5 Years Comprehensive Warranty on Product and 10 Years on Compressor
+Blue Star,37999,1.5,5,4.4,"1,474",168,Split,No,No,Copper,1450,46,R32,52,No,1 Year on Product and 5 Years on Compressor from Blue Star
+Daikin,44699,1,4,4.2,485,76,Split,Yes,No,Copper,822,31,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Daikin
+Carrier,39490,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Blue Star,50551,2,3,Not Available,Not Available,Not Available,Split,No,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Daikin,60999,1.8,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1575,48,R32,Not Available,No,"1 Year on Product, 10 Years on Compressor and 5 Years on PCB"
+Hitachi,40766,2,5,3.4,5,0,Window,No,No,Copper,1703,48,R32,52,No,Not Available
+Samsung,44190,1.5,3,2,4,1,Split,No,No,Copper,1350,45,Not Available,Not Available,Yes,5 Years Comprehensive Warranty on Product and 10 Years on Compressor
+Lloyd,41190,1.5,5,3.3,7,1,Split,Yes,No,Copper,946,40,R32,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor From Lloyd
+Lg,46499,1.5,4,4.3,"9,464","1,217",Split,Yes,No,Copper,1440,34,R32,52,No,"10 Years on Compressor with free gas recharge*, 5 Years on PCB*"
+Hitachi,38100,1,3,2.3,3,1,Split,Yes,No,Copper,585,32,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor
+Hitachi,31990,1,5,4.1,"3,294",372,Split,Yes,No,Copper,1110,37,R410A,Not Available,No,Not Available
+Daikin,41990,1.5,3,3,4,1,Split,Yes,No,Copper,1602,32,R32,54,No,"1 Year Warranty on Product, 5 Years on PCB (Printed Circuit Board) and 10 Years on Compressor"
+Daikin,47908,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1325,32,Not Available,Not Available,No,1 Year Comprehensive Warranty on Product and 10 Years on Compressor
+O General,33000,1,5,Not Available,Not Available,Not Available,Window,No,No,Copper,1155,47,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor From OGeneral
+O General,45000,1.5,3,Not Available,Not Available,Not Available,Window,No,No,Copper,1800,56,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 5 Years on Compressor From OGeneral
+Haier,35490,1.5,3,3,2,1,Split,Yes,No,Copper,1089,41,Not Available,Not Available,No,1 Year Warranty on Product and 12 Years on Compressor from Haier
+Hitachi,43998,2,4,4.2,32,1,Split,Yes,No,Copper,2090,37,Not Available,52,No,"1 Year on Product, 1 Year on Condenser and 5 Years on Compressor From Hitachi"
+Samsung,43599,1,5,4.8,6,0,Split,Yes,No,Copper,494,42,Not Available,Not Available,No,"1 Year Warranty on Product, 5 Years on Condenser and 10 Years on Compressor"
+Samsung,43598,1.5,5,4.1,49,6,Split,Yes,No,Copper,1044,45,Not Available,Not Available,No,"1 Year Warranty on Product, 5 Years on Condenser and 10 Years on Compressor"
+Toshiba,39000,1,4,3.7,3,0,Split,Yes,No,Copper,1050,36,R32,Not Available,No,"1 Year on product, 5 year on Compressor"
+Hyundai,35990,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,50,No,Not Available
+Samsung,41599,1.5,4,4.4,5,2,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Voltas,35999,1.5,4,4.3,103,4,Split,No,No,Copper,972,45,Not Available,50,No,1 Year Warranty on the Product and 4 Years on the Compressor
+Gazhal,35749,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Hitachi,46998,1.5,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1540,34,R410A,52,No,1 Year Warranty on Complete Product and 5 Years on Compressor
+Whirlpool,33000,1.5,3,4.2,"1,618",241,Split,Yes,No,Copper,1773,41,Not Available,Not Available,No,"1 Year on Comprehensive Unit , 10 years on compressor & 1 year on condensor"
+Toshiba,50000,1.5,5,1,1,1,Split,Yes,No,Copper,1570,38,R32,Not Available,No,"1 Year on product, 5 year on Compressor"
+Gazhal,35995,1,3,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Toshiba,56990,1.5,1,1,1,1,Split,Yes,No,Copper,1230,35,R32,Not Available,No,"1 Year on product, 5 year on Compressor"
+Gazhal,34499,1,4,Not Available,Not Available,Not Available,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Hitachi,45490,1.8,5,3.9,"2,691",279,Split,Yes,No,Copper,1236,38,R32,52,No,1 Year Warranty on Complete Product and 10 Years on Compressor
+Haier,36700,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1780,38,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor From Haier
+Panasonic,44871,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1660,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Daikin,48000,1.5,3,4.2,485,76,Split,Yes,No,Copper,1290,32,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Daikin
+Daikin,48000,1.5,3,4.2,485,76,Split,Yes,No,Copper,1290,32,R32,Not Available,No,1 Year on Product and 5 Years on Compressor from Daikin
+Panasonic,44871,1.5,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1660,38,Not Available,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Panasonic,34797,1.5,5,3.2,5,0,Split,Yes,No,Copper,1015,47,R32,Not Available,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor"
+Daikin,38535,1.5,3,3.1,10,2,Split,Yes,No,Copper,1602,32,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Gazhal,33749,1.5,5,Not Available,Not Available,Not Available,Split,No,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Daikin,63900,1.8,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1820,32,Not Available,Not Available,No,1 Year Comprehensive Warranty on AC and 10 Years on Compressor
+Lloyd,37490,1,5,3.3,7,1,Split,Yes,No,Copper,678,32,R32,Not Available,Yes,1 Year Comprehensive Warranty on AC and 10 Years on Compressor From Lloyd
+Lg,44990,1.5,4,3.5,11,2,Split,Yes,No,Copper,818,31,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor from LG"
+Voltas,38490,1.5,4,3.5,8,1,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Hitachi,44195,1.8,5,Not Available,Not Available,Not Available,Split,Yes,No,Copper,1550,60,Not Available,Not Available,No,1 Year on Product and 10 Years on Compressor from Hitachi
+Toshiba,49500,2,3,Not Available,Not Available,Not Available,Split,Yes,No,Copper,2000,41,R32,Not Available,No,"1 Year on product, 5 year on Compressor"
+Haier,39490,2,3,3.3,3,0,Split,No,No,Copper,1937,40,R32,Not Available,No,"1 Year on Product, 1 Year on Condenser and 10 Years on Compressor"
+Samsung,47879,1.5,3,1.7,3,0,Split,Yes,No,Copper,1820,35,R32,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor
+Lg,48999,1.5,2,Not Available,Not Available,Not Available,Split,Yes,No,Copper,818,31,R32,52,No,"1 Year Warranty on Product, 5 Years on PCB and 10 Years on Compressor with Gas Charging"
+Hitachi,38890,0.9,4,3.4,7,0,Split,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,No,Not Available
+Haier,28990,1.8,3,2.8,16,4,Split,Yes,No,Copper,732,26,R32,Not Available,No,1 Year Warranty on Product and 12 Years on Compressor From Haier
+Hitachi,46199,1.5,3,3.7,3,0,Split,Yes,No,Copper,1405,37,Not Available,Not Available,No,1 Year Warranty on Product and 10 Years on Compressor from Hitachi
+Lloyd,32990,1,3,3.9,23,4,Split,No,No,Copper,1700,38,Not Available,Not Available,No,1 Year Warranty and 1 Year Compressor Warranty on Lloyd
+Samsung,30699,1.5,3,3.8,8,0,Split,No,No,Copper,711,42,Not Available,Not Available,No,"1 Year Warranty on Product, 5 Years on Condenser and 10 Years on Compressor"
+Voltas,34449,2,3,4.3,"2,104",248,Window,No,No,Copper,1525,54,R32,Not Available,No,1 Year on Product and 4 Years on Compressor
+Haier,123500,2,3,3.3,4,2,Not Available,Yes,No,Not Available,Not Available,Not Available,Not Available,Not Available,Yes,Not Available
+Panasonic,52999,1,5,3.3,11,2,Split,Yes,No,Copper,1013,47,Not Available,Not Available,Yes,1 Year Warranty on Product and 10 Years on Compresser
